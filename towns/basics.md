@@ -43,6 +43,10 @@ description: >-
 * **/t unclaim** - удалить регион
 * **/t claim gui** - очень удобный способ привата через меню
 
+{% hint style="info" %}
+![](../.gitbook/assets/image.png) Приват регионов при помощи **/t claim gui**
+{% endhint %}
+
 Количество всех регионов города также называется **площадью города**.
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
