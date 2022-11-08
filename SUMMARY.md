@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 О проекте](README.md)
+* [📒 Правила](pravila.md)
 
 ## Города <a href="#towns" id="towns"></a>
 
