@@ -2,6 +2,11 @@
 
 * [👋 О проекте](README.md)
 * [📒 Правила](rules.md)
+* [✍ Команды](komandy.md)
+
+## Начало игры <a href="#start" id="start"></a>
+
+* [Page 1](start/page-1.md)
 
 ## Города <a href="#towns" id="towns"></a>
 
