@@ -12,3 +12,7 @@
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
 * [🛡 Союзы](towns/unions.md)
+
+## Разное <a href="#other" id="other"></a>
+
+* [💰 Экономика](other/money.md)
