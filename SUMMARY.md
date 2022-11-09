@@ -11,7 +11,7 @@
 ## Города <a href="#towns" id="towns"></a>
 
 * [🤓 Базовые понятия](towns/basics.md)
-* [⏫ Уровни города](towns/levels.md)
+* [🔱 Уровни города](towns/levels.md)
 * [⚙ Настройка разрешений](towns/flags.md)
 * [🏕 Участки](towns/plot.md)
 * [🏫 Здания](towns/buildings.md)
