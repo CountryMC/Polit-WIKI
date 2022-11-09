@@ -17,6 +17,8 @@
 Цена на все товары обновляется раз в **60 секунд** на **1%**
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Аукцион</mark>
 
 Аукцион доступен всем жителям города после покупки здания "[Таможня](../towns/buildings.md#tamozhnya)".
@@ -28,6 +30,8 @@
 {% hint style="info" %}
 Для обычного игрока одновременно доступно только **2 слота** для продажи
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Честшопы</mark>
 
@@ -58,3 +62,5 @@
 {% hint style="warning" %}
 Также учти, что защита содержимого работает только в том случае, если магазин создан в участке в котором владелец это создатель магазина
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

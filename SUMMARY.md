@@ -16,3 +16,4 @@
 ## Разное <a href="#other" id="other"></a>
 
 * [💰 Экономика](other/money.md)
+* [🗣 Чаты](other/chats.md)
