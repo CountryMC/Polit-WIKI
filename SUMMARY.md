@@ -11,3 +11,4 @@
 * [🏕 Участки](towns/plot.md)
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
+* [🛡 Союзы](towns/unions.md)

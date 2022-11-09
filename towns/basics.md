@@ -126,3 +126,14 @@ description: >-
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
+## <mark style="color:purple;">Городской инвентарь</mark>
+
+Городской инвентарь позволяет всем всем жителям города складывать ресурсы в одно место.
+
+**/t inventory** - открыть городской инвентарь
+
+{% hint style="info" %}
+По умолчанию обычные жители [не могут](perms.md#prava-rangov-po-umolchaniyu) доставать ресурсы из инвентаря, только класть.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
