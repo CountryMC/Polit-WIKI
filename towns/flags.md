@@ -19,4 +19,8 @@
 | **reg**               | Сделать все регионы без владельцев публичными для своих жителей(они смогут открывать сундуки, ломать, строить)                           | **/t flag set reg**               |
 | **alien\_exp**        | Включить/отключить возможность чужакам получать опыт в городе                                                                            | **/t flag set alien\_exp**        |
 
+{% hint style="warning" %}
+Подоходный налог не может быть меньше **1%** и больше **60%**
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
