@@ -31,10 +31,6 @@
 Для обычного игрока одновременно доступно только **2 слота** для продажи
 {% endhint %}
 
-{% hint style="warning" %}
-При продаже товара часть суммы в виде **подоходного налога** идет в бюджет города, в котором живет продавец. По умолчанию налог равен **10%**.
-{% endhint %}
-
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Честшопы</mark>
