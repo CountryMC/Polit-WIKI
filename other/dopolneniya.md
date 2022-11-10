@@ -41,7 +41,7 @@
 
 Ты можешь добавить ссылки на социальные сети своего города, где идет общение твоих жителей, прямо на динамическую карту.
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 #### Команды:
 

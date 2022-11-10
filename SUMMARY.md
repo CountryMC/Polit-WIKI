@@ -6,7 +6,7 @@
 
 ## Начало игры <a href="#start" id="start"></a>
 
-* [Page 1](start/page-1.md)
+* [🌍 Первые шаги](start/first-steps.md)
 
 ## Города <a href="#towns" id="towns"></a>
 
@@ -21,6 +21,6 @@
 ## Разное <a href="#other" id="other"></a>
 
 * [🪙 Экономика](other/money.md)
-* [🗣 Чаты](other/chats.md)
+* [💬 Чаты](other/chats.md)
 * [🔧 Кастомные крафты](other/kastomnye-krafty.md)
 * [⚡ Дополнения](other/dopolneniya.md)
