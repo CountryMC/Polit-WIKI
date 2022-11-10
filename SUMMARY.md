@@ -20,7 +20,7 @@
 
 ## Разное <a href="#other" id="other"></a>
 
-* [🪙 Экономика](other/money.md)
+* [🪙 Экономика](other/economic.md)
 * [💬 Чаты](other/chats.md)
-* [🔧 Кастомные крафты](other/kastomnye-krafty.md)
-* [⚡ Дополнения](other/dopolneniya.md)
+* [🔧 Кастомные крафты](other/crafts.md)
+* [⚡ Дополнения](other/addition.md)
