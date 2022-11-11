@@ -4,9 +4,9 @@
 
 ## <mark style="color:purple;">Команды</mark>
 
+* **/t flags** - меню настройки разрешений
 * **/t flag set** <mark style="color:purple;"></mark> **<флаг>** - установить флаг города в определенное значение
 * **/t flag gui** - удобное меню по управлению флагами города
-* **/t** - удобнее всего изменять значения флагов через меню города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
