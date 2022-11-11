@@ -23,4 +23,5 @@
 * [🪙 Экономика](other/economic.md)
 * [💬 Чаты](other/chats.md)
 * [🔧 Кастомные крафты](other/crafts.md)
+* [☕ Напитки](other/drinks.md)
 * [⚡ Дополнения](other/addition.md)
