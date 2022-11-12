@@ -15,7 +15,7 @@
 Цена прекратит снижаться когда упадет на **80%.** Дальше она будет только восстанавливаться.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot from 2022-11-09 23-16-08.png" alt=""><figcaption><p>Меню скупщика</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Меню скупщика</p></figcaption></figure>
 
 {% hint style="info" %}
 Цена на все товары обновляется раз в **60 секунд** на **1%**
