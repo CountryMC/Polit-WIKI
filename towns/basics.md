@@ -44,7 +44,7 @@ description: >-
 * **/t claim gui** - очень удобный способ привата через меню
 
 {% hint style="info" %}
-![](<../.gitbook/assets/image (2) (1).png>) Приват регионов при помощи **/t claim gui**
+![](<../.gitbook/assets/image (2) (1) (1).png>) Приват регионов при помощи **/t claim gui**
 {% endhint %}
 
 Количество всех регионов города также называется **площадью города**.
