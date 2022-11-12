@@ -1,5 +1,13 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Фермерство</mark>
+
+{% hint style="info" %}
+Рост растений замедлен на **50%**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Быстрая рубка дерева</mark>
 
 Для всех игроков доступна быстра рубка дерева всеми видами топора.
