@@ -32,8 +32,6 @@ description: Прокачка города
 
 ### <mark style="color:blue;">II</mark>
 
-Нужно **150⛀** + ресурсы
-
 <figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: _Арена_
@@ -49,8 +47,6 @@ description: Прокачка города
 
 ### <mark style="color:blue;">III</mark>
 
-Нужно **550⛀** + ресурсы
-
 <figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
@@ -62,8 +58,6 @@ description: Прокачка города
 
 ### <mark style="color:blue;">IV</mark>
 
-Нужно **850⛀** + ресурсы
-
 <figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
@@ -74,8 +68,6 @@ description: Прокачка города
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">V</mark>
-
-Нужно **1050⛀** + ресурсы
 
 <figure><img src="../.gitbook/assets/5.jpg" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
