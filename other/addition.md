@@ -14,6 +14,8 @@
 После убийства Дракона его воскрешение ставится на перезарядку равную **30 минут**
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Фермерство</mark>
 
 {% hint style="info" %}
