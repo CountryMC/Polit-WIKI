@@ -131,8 +131,6 @@ description: Правила проекта | Дискорда | Админист
     &#x20;  <mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан ∞</mark>
 11. **Попытка обмана Администрации \ Обман Администрации \ Обман игроков**\
     ** **<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 3 дней</mark>
-12. **Любые вредоносные действия направленные в сторону игроков или серверов.**\
-    ** **<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 2 дней до Навсегда</mark>
 
 </details>
 
