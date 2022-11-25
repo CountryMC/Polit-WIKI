@@ -22,7 +22,7 @@ description: Что делать после появления на спавне
 
 После того как мэр какого-либо города пригласит тебя в город, ты получишь такое сообщение:
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Пример приглашения в город</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption><p>Пример приглашения в город</p></figcaption></figure>
 
 Чтобы вступить в город, **кликни** на зеленую кнопку, либо пропиши:
 
