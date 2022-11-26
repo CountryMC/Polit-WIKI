@@ -14,4 +14,4 @@
 
 ## <mark style="color:purple;">Кристалл края</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Кристалл края</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Кристалл края</p></figcaption></figure>
