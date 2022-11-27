@@ -6,6 +6,7 @@
 
 ## Начало игры <a href="#start" id="start"></a>
 
+* [🔎 Как зайти на сервер](start/kak-zaiti-na-server.md)
 * [🌍 Первые шаги](start/first-steps.md)
 
 ## Города <a href="#towns" id="towns"></a>
