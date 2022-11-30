@@ -7,6 +7,7 @@
 * **/t raid <город>** - начать рейд на город
 * **/t raidjoin <сторона>** - присоединить свой город к рейду
 * **/t raidtime** - информация о кулдаунах на рейды
+* **/t raidend** - оставшееся время до конца рейда
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 

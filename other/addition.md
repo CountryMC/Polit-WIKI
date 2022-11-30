@@ -1,5 +1,11 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Тотемы</mark>
+
+Тотемы бессмертия отключены и **не спасают** от смерти.
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Защита от ПВП в шахте</mark>
 
 Ниже 30 высоты ПВП отключено, ты можешь спокойно добывать ресурсы, не боясь, что тебя убьют.

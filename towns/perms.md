@@ -35,6 +35,9 @@
 | **PublicVillagers**   | Дает/Забирает право на утсановку публичности НПС жителей(**/t flag set public\_villagers**)                                                                                        | **/t rank perm PublicVillagers <игрок>**   |
 | **TakeTownInventory** | Дает/Забирает право на взятие предметов из городского инвентаря                                                                                                                    | **/t rank perm TakeTownInventory <игрок>** |
 | **SetAlienExp**       | Дает/Забирает право на установки запрета на получения опыта чужаками в городе(**/flag set alien\_exp**)                                                                            | **/t rank perm SetAlienExp <игрок>**       |
+| **StartRaid**         | Дает/Забирает право на возможность начинать рейд                                                                                                                                   | **/t rank perm StartRaid <игрок>**         |
+| **JoinRaid**          | Дает/Забирает право на присоединение к рейду                                                                                                                                       | **/t rank perm JoinRaid <игрок>**          |
+| **UnionInvite**       | Дает/Забирает право на приглашение городов в союз                                                                                                                                  | **/t rank perm UnionInvite <игрок>**       |
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
@@ -61,5 +64,8 @@
 | **PublicVillagers**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
 | **TakeTownInventory** | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
 | **SetAlienExp**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
+| **StartRaid**         | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
+| **JoinRaid**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
+| **UnionInvite**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> |
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
