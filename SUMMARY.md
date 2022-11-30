@@ -18,6 +18,7 @@
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
 * [🛡 Союзы](towns/unions.md)
+* [⚔ Рейды](towns/reidy.md)
 
 ## Разное <a href="#other" id="other"></a>
 
