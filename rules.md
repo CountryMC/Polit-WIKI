@@ -135,6 +135,8 @@ description: Правила проекта | Дискорда | Админист
     ** **<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 3 дней</mark>
 12. **Вход с чужого аккаунта без разрещения владельца**\
     ** **<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 дня до Навсегда</mark>
+13. &#x20;**Оскорбление проекта**\
+    ****<mark style="color:red;">◦  Наказание : Бан от нескольких часов до Навсегда</mark>
 
 </details>
 
