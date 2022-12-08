@@ -69,7 +69,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">V</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Библиотека_

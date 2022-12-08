@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Нитки</mark>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Нитки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Нитки</p></figcaption></figure>
 
 {% hint style="info" %}
 Шерсть может быть **любая**
