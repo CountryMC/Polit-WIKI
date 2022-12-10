@@ -18,7 +18,7 @@
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
 * [🛡 Союзы](towns/unions.md)
-* [⚔ Рейды](towns/reidy.md)
+* [⚔ Рейды](towns/raids.md)
 
 ## Разное <a href="#other" id="other"></a>
 
@@ -26,5 +26,5 @@
 * [💬 Чаты](other/chats.md)
 * [🔧 Кастомные крафты](other/crafts.md)
 * [☕ Напитки](other/drinks.md)
-* [🦈 Рыбалка](other/rybalka.md)
+* [🦈 Рыбалка](other/fishing.md)
 * [⚡ Дополнения](other/addition.md)
