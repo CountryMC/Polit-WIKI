@@ -26,4 +26,5 @@
 * [💬 Чаты](other/chats.md)
 * [🔧 Кастомные крафты](other/crafts.md)
 * [☕ Напитки](other/drinks.md)
+* [🦈 Рыбалка](other/rybalka.md)
 * [⚡ Дополнения](other/addition.md)

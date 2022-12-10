@@ -15,7 +15,7 @@
 Цена прекратит снижаться когда упадет на **80%.** Дальше она будет только восстанавливаться.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Товары скупщика</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Товары скупщика</p></figcaption></figure>
 
 {% hint style="info" %}
 Цена на все товары обновляется раз в **60 секунд** на **1%**
@@ -61,7 +61,7 @@
 
 В результате должно получиться что-то вроде этого:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Готовые честшопы</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Готовые честшопы</p></figcaption></figure>
 
 {% hint style="info" %}
 Для того, чтобы купить предмет нужно кликнуть по табличке _**ПКМ**_, а для продажи — _**ЛКМ**_.
