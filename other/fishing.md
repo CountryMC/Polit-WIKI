@@ -42,6 +42,16 @@
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
+## <mark style="color:purple;">Турниры</mark>
+
+Раз в три часа на сервере проходят рыболовные турниры с призами:
+
+* Самая крупная рыба
+* Определенный вид рыбы
+* Наибольший улов
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Разделка рыбы</mark>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Иконка разделки рыбы в меню(/fish menu)</p></figcaption></figure>
