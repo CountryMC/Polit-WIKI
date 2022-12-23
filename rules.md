@@ -121,7 +121,7 @@ description: Правила проекта | Дискорда | Админист
 4. **Попытка обхода бана.**\
    **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark>
 5. **Использование недоработок сервера. Возможность избежать бана : Написать о баге в** [**БагЧек**](https://docs.google.com/forms/d/e/1FAIpQLSdiccGRQI0P29jXvhY-JZXBddqQD58pM\_pUzyW2RPtjOzRHiA/viewform)**.** со всеми подробностями бага\
-   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark>
+   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 дня до Навсегда.</mark>
 6. **Использоание авто рыбалки.**\
    &#x20;**  **<mark style="color:red;">****</mark> <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Кик с сервера ; конфискация всех вещей.</mark>&#x20;
 7. **Использование недоработок правил проекта, с целью их обхода.**\
