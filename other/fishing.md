@@ -54,7 +54,7 @@
 
 ## <mark style="color:purple;">Разделка рыбы</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Иконка разделки рыбы в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Иконка разделки рыбы в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь разделывать пойманную рыбу и получать **Якори⚓**. Чем более редкий вид рыбы тем больше якорей.
 
@@ -90,7 +90,7 @@
 
 ## <mark style="color:purple;">Бустеры</mark>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Иконка бустеров в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Иконка бустеров в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь улучшать свою удочку, добавляя к ней бустеры. У каждого бустера есть несколько уровней прокачки.
 
