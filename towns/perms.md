@@ -12,7 +12,7 @@
 
 ## <mark style="color:purple;">Ранги и права</mark>
 
-Существует четыре ранга: <mark style="color:orange;">**Заместитель мэра**</mark>, <mark style="color:orange;">**обычный житель**</mark>, <mark style="color:orange;">**солдат**</mark> и <mark style="color:orange;">**строитель**</mark>. Тем не менее мэр города может забирать и выдавать права жителям с любым рангом.
+Существует четыре ранга: <mark style="color:orange;">**Заместитель мэра**</mark>, <mark style="color:orange;">**обычный житель**</mark>, <mark style="color:orange;">**солдат**</mark>**, **<mark style="color:orange;">**строитель**</mark>** и **<mark style="color:orange;">**фермер**</mark>. Тем не менее мэр города может забирать и выдавать права жителям с любым рангом.
 
 | Право                 | Значение                                                                                                                                                                                                                                      | Команда                                    |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -44,30 +44,30 @@
 
 ## <mark style="color:purple;">Права рангов по умолчанию</mark>
 
-| Право                 |             Заместитель мэра            |             Обычный житель            |                 Солдат                |               Строитель               |
-| --------------------- | :-------------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
-| **ClaimRegions**      | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **DeleteRegions**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **DeletePlots**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **InviteResidents**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **KickResidents**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **Withdraw**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **LvlUp**             | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **BuyBuilding**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **BuildEverywhere**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **SetFlags**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **SetSpawn**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **Rename**            | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **ChangePlotPrice**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **SetPlotForSale**    | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **SetPlotType**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **BuildingLvlUp**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **PublicVillagers**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **TakeTownInventory** | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **SetAlienExp**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **StartRaid**         | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **JoinRaid**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **UnionInvite**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
-| **FriendlyFire**      | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| Право                 |             Заместитель мэра            |             Обычный житель            |                 Солдат                |               Строитель               |                 Фермер                |
+| --------------------- | :-------------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: |
+| **ClaimRegions**      | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **DeleteRegions**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **DeletePlots**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **InviteResidents**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **KickResidents**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **Withdraw**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **LvlUp**             | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **BuyBuilding**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **BuildEverywhere**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **SetFlags**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **SetSpawn**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **Rename**            | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **ChangePlotPrice**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **SetPlotForSale**    | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **SetPlotType**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **BuildingLvlUp**     | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **PublicVillagers**   | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **TakeTownInventory** | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **SetAlienExp**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **StartRaid**         | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **JoinRaid**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **UnionInvite**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **FriendlyFire**      | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
