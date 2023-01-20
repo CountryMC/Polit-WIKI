@@ -38,7 +38,7 @@ description: Правила проекта | Дискорда | Админист
    **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦ Наказание : Удаление Города\Религии</mark>
 3. **Создание региона не примыкающего к основному региону города.**\
    **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦ Наказание : Удаление Региона</mark>
-4. **Окружение города с целью его полной блокады без разрешения создателя города, который вы окружаете.** <mark style="color:blue;">Исключение : Оповещение в группу ВК о проведении RP-ситуации ; Война.</mark>\ <mark style="color:blue;"></mark>   <mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦ Наказание : Удаление Региона</mark>
+4. **Окружение другого города регионами своего города более чем на 75%.** <mark style="color:blue;">Исключение : Оповещение в группу ВК о проведении RP-ситуации ; Война.</mark>\ <mark style="color:blue;"></mark>   <mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦ Наказание : Удаление Региона</mark>
 5. **Создание регионов проходящих через крупные Реки, Проливы, Океаны и совмещенных с другим регионом города.**\
    &#x20;  <mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦ Наказание : Удаление Региона</mark>
 6. **Создание твинк-городов. Исключение: территории, на которые никто не претендует**\
