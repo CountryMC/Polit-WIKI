@@ -146,6 +146,15 @@ description: Правила проекта | Дискорда | Админист
 
 </details>
 
+<details>
+
+<summary>Правила Проекта | Глава [5] : Донатеры |</summary>
+
+1. **Обман/введение игроков в заблуждение используя донат-привилегии или иные способы.**\
+   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Снятие привилегии.</mark>
+
+</details>
+
 &#x20;                                         <mark style="color:blue;">****</mark>**             ╭ ПРАВИЛА ДИСКОРДА ╮**
 
 <details>
