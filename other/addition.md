@@ -1,5 +1,15 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Безопасный обмен</mark>
+
+Чтобы не быть обманутым при обмене, используй безопасный трейд.
+
+* **/trade <ник>** - отправить игроку приглашение на сделку
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Меню обмена</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Тотемы</mark>
 
 Тотемы бессмертия отключены и **не спасают** от смерти.
@@ -130,7 +140,7 @@
 
 Ты можешь создать лифт используя табличку с надписью _**\[лифт]**:_
 
-__![](<../.gitbook/assets/image (5).png>)__
+__![](<../.gitbook/assets/image (5) (1).png>)__
 
 {% hint style="info" %}
 Чтобы поднятся наверх нужно нажать **ПКМ** по табличке, а вниз — **Shift + ПКМ**
