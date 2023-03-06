@@ -6,7 +6,16 @@
 * Продажа рыбы
 * Продажа ресурсов игрокам на аукционе
 * Продажа ресурсов игрокам при помощи честшопов
+* Халтурка на спавне у НПС
 * Выполнение различных просьб других игроков за награду
+
+## <mark style="color:purple;">Халтурка на спавне</mark>
+
+Ты можешь заработать немного денег выполнив задание НПС на спавне, собрав предметы собрав предметы которые ему нужны.
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Скупщик</mark>
 
