@@ -120,11 +120,11 @@ description: Правила проекта | Дискорда | Админист
 
 
 1. **Использование постороннего ПО помогающего облегчить геймплей.**\
-   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark>
+   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark> <mark style="color:blue;">**Признанее до проверки снижает срок на 30% с округлением в большую сторону.**</mark>
 2. **Ники содержащие в себе непристойную\оскорбительную суть.**\
    **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан ∞</mark>
 3. **Любое содействие нарушившим правила сервера игрокам.**\
-   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark>
+   **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark> <mark style="color:blue;">**Признанее до проверки снижает срок на 30% с округлением в большую сторону.**</mark>
 4. **Попытка обхода бана.**\
    **   **<mark style="color:red;">****</mark>   <mark style="color:red;"></mark><mark style="color:red;">◦  Наказание : Бан от 1 до 5 недель.</mark>
 5. **Использование недоработок сервера. Возможность избежать бана : Написать о баге в** [**БагЧек**](https://docs.google.com/forms/d/e/1FAIpQLSdiccGRQI0P29jXvhY-JZXBddqQD58pM\_pUzyW2RPtjOzRHiA/viewform)**.** со всеми подробностями бага\
