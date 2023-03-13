@@ -29,7 +29,9 @@ description: >-
 
 * **/t spawn** - телепорт в город
 
-
+{% hint style="danger" %}
+Если мэр города хотя не будет заходить на сервер хотя бы раз в две недели, то город будет удалён.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
