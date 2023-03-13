@@ -39,6 +39,7 @@
 | **JoinRaid**          | Дает/Забирает право на присоединение к рейду                                                                                                                                                                                                  | **/t rank perm JoinRaid <игрок>**          |
 | **UnionInvite**       | Дает/Забирает право на приглашение городов в государство                                                                                                                                                                                      | **/t rank perm UnionInvite <игрок>**       |
 | **FriendlyFire**      | Дает/Забирает право на включение урона по своим                                                                                                                                                                                               | **/t rank perm FriendlyFire <игрок>**      |
+| **GivePlots**         | Дает/Забирает право на выдачу участков жителям /plot give                                                                                                                                                                                     | **/t rank perm GivePlots <игрок>**         |
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
@@ -69,5 +70,6 @@
 | **JoinRaid**          | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
 | **UnionInvite**       | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
 | **FriendlyFire**      | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
+| **GivePlots**         | <mark style="color:green;">**+**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> | <mark style="color:red;">**-**</mark> |
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

@@ -140,6 +140,10 @@ description: >-
 **/t claim gui** - наиболее удобный способ управления участками
 {% endhint %}
 
+Ты можешь выдать участок жителю без выставления его на продажу:
+
+* **/plot give \<nick>** - выдать участок жителю без продажи
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">**Городские здания**</mark>
