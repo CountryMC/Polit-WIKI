@@ -43,7 +43,7 @@ description: Территория жителей города
 * **/t friends** - список своих друзей
 
 {% hint style="warning" %}
-Максимальное кол-во друзей равно **5**
+Максимальное кол-во друзей равно **10**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
