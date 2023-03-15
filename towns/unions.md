@@ -13,6 +13,7 @@
 ## <mark style="color:purple;">Команды</mark>
 
 * **/nation create <название>** - создание государства
+* **/nation** - открыть меню государства
 * **/nation info** **<название>** - информация о государстве
 * **/nation delete** - удаление государства
 * **/nation invite <город>** - пригласить город в государство
@@ -21,6 +22,7 @@
 * **/nation setowner <город>** - передать власть государством другому союзному городу.
 * **/nation color <цвет>** - установить цвет государства на карте. Цвет должен быть HEX формата, например /union color #123ABC
 * **/nation members** - список городов государства
+* **/nation towns** - открыть меню городов государства
 * **/nation rename** - переименовать государство
 * **/nation capital** - телепорт в столицу государства
 * **/nation spawn <город>** - платный телепорт в город государства(**0.01⛂** за каждый чанк между городом и позицией игрока)
@@ -48,5 +50,15 @@
 Чтобы пригласить город в государство он долже быть **II** уровня либо выше
 
 * **/nation invite <город>** - пригласить город в государство
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:purple;">Управление государством</mark>
+
+Некоторые возможности по управлению государством доступны в меню:
+
+* **/nation** - открыть меню государства
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Меню государства</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
