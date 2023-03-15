@@ -53,12 +53,12 @@
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Управление государством</mark>
+## <mark style="color:purple;">Меню государства</mark>
 
 Некоторые возможности по управлению государством доступны в меню:
 
 * **/nation** - открыть меню государства
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Меню государства</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Меню государства</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
