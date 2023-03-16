@@ -54,3 +54,13 @@ description: Территория жителей города
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
+## <mark style="color:purple;">Меню участка</mark>
+
+Меню участка помогает упростить работу с участками:
+
+* **/plot** - меню участка на котором ты стоишь
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Меню участка</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

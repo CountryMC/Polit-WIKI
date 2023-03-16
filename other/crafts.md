@@ -10,7 +10,7 @@
 
 ## <mark style="color:purple;">Седло</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Седло</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Седло</p></figcaption></figure>
 
 ## <mark style="color:purple;">Кристалл края</mark>
 
