@@ -148,4 +148,9 @@ __![](<../.gitbook/assets/image (5) (1).png>)__
 Чтобы поднятся наверх нужно нажать **ПКМ** по табличке, а вниз — **Shift + ПКМ**
 {% endhint %}
 
+{% hint style="warning" %}
+Лифт будет работать только если такие таблички есть на каждом этаже!!!
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
