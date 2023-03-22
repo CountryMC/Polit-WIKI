@@ -70,7 +70,7 @@
 
 ## <mark style="color:purple;">Взвешивание рыбые</mark>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Иконка весов в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Иконка весов в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь увеличить заработок с продажи рыбы позле взвешивания улова.
 
