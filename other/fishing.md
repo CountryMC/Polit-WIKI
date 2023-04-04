@@ -82,7 +82,7 @@
 
 ## <mark style="color:purple;">Навыки</mark>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Иконка навыков в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Иконка навыков в меню(/fish menu)</p></figcaption></figure>
 
 Изучай навыки, которые дадут тебе очень приятные бонусы при рыбалке.
 

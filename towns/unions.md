@@ -59,6 +59,6 @@
 
 * **/nation** - открыть меню государства
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Меню государства</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Меню государства</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
