@@ -1,6 +1,12 @@
 # 🔧 Кастомные крафты
 
+## <mark style="color:purple;">Искажённый нилий</mark>
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Искажённый нилий</p></figcaption></figure>
+
+## <mark style="color:purple;">Багровый нилий</mark>
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Искажённый нилий</p></figcaption></figure>
 
 ## <mark style="color:purple;">Слиток незерита</mark>
 
@@ -8,7 +14,7 @@
 
 ## <mark style="color:purple;">Шалкер</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Шалкер</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption><p>Шалкер</p></figcaption></figure>
 
 ## <mark style="color:purple;">Сердце моря</mark>
 
