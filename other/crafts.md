@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Искажённый нилий</mark>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Искажённый нилий</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Искажённый нилий</p></figcaption></figure>
 
 ## <mark style="color:purple;">Багровый нилий</mark>
 
@@ -10,7 +10,7 @@
 
 ## <mark style="color:purple;">Слиток незерита</mark>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Слиток незерита</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Слиток незерита</p></figcaption></figure>
 
 ## <mark style="color:purple;">Шалкер</mark>
 
@@ -34,4 +34,4 @@
 
 ## <mark style="color:purple;">Кристалл края</mark>
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Кристалл края</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Кристалл края</p></figcaption></figure>

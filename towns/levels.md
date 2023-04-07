@@ -17,9 +17,11 @@ description: Прокачка города
 
 ### <mark style="color:blue;">I</mark>
 
-Нужно **0⛀** + ресурсы:
+Нужно **0⛀** + ресурсы:\
+\
 
-<figure><img src="../.gitbook/assets/1.jpg" alt=""><figcaption><p>Ресурсы для 1 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
@@ -34,9 +36,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">II</mark>
 
-Нужно **200⛀** + ресурсы:
+Нужно **200⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/2.jpg" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: _Арена_
 * **Новые здания**: _Железнодорожная станция_, _Святыня ада_
@@ -51,9 +54,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">III</mark>
 
-Нужно **550⛀** + ресурсы:
+Нужно **550⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/3.jpg" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Банк_
@@ -64,9 +68,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">IV</mark>
 
-Нужно **1000⛀** + ресурсы:
+Нужно **1000⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/4.jpg" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Дом правительства, Тренировочный лагерь_
@@ -77,9 +82,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">V</mark>
 
-Нужно **1850⛀** + ресурсы:
+Нужно **1850⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Библиотека, Военная академия, Гильдия строителей_
