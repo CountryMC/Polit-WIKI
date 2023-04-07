@@ -42,7 +42,7 @@ description: Прокачка города
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: _Арена_
-* **Новые здания**: _Железнодорожная станция_, _Святыня ада_
+* **Новые здания**: _Железнодорожная станция_
 * **Максимум жителей**: 20
 * **Максимум регионов**: 90
 
@@ -91,5 +91,19 @@ description: Прокачка города
 * **Новые здания**: _Библиотека, Военная академия, Гильдия строителей_
 * **Максимум жителей**: 100
 * **Максимум регионов**: 1090
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:blue;">VI</mark>
+
+Нужно **3000⛀** + ресурсы:\
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
+
+* **Доступные участки**: Все
+* **Новые здания**:&#x20;
+* **Максимум жителей**: 150
+* **Максимум регионов**: 1540
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
