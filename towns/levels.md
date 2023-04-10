@@ -39,7 +39,7 @@ description: Прокачка города
 Нужно **200⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: _Арена_
 * **Новые здания**: _Железнодорожная станция_
@@ -99,7 +99,7 @@ description: Прокачка города
 Нужно **3000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Библиотека_

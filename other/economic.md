@@ -12,7 +12,7 @@
 
 Ты можешь заработать немного денег выполнив задание НПС на спавне, собрав предметы предметы которые ему нужны.
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
