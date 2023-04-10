@@ -1,5 +1,9 @@
 # 🔧 Кастомные крафты
 
+## <mark style="color:purple;">Эндер-жемчуг</mark>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
+
 ## <mark style="color:purple;">Искажённый нилий</mark>
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Искажённый нилий</p></figcaption></figure>
