@@ -1,5 +1,5 @@
 ---
-description: 🎮 IP » play.countrymc.net | Версия 1.13 - 1.18.2
+description: 🎮 IP » play.countrymc.net | Версия 1.13 - 1.19.4
 cover: .gitbook/assets/Oblozhka (1).jpg
 coverY: 52.093023255813954
 ---
@@ -12,7 +12,7 @@ coverY: 52.093023255813954
 💰 Сайт » [<mark style="color:blue;">countrymc.net</mark>](https://vk.com/away.php?to=http%3A%2F%2Fcountrymc.net\&cc\_key=)\
 🌍 Карта » [<mark style="color:blue;">map.countrymc.net</mark>](https://vk.com/away.php?to=http%3A%2F%2Fmap.countrymc.net\&cc\_key=)\
 🔥 Дискорд » [<mark style="color:blue;">discord.gg/s64dtn5jCR</mark>](https://vk.com/away.php?to=http%3A%2F%2Fdiscord.gg%2Fs64dtn5jCR\&cc\_key=)\
-🔥 ВК » [<mark style="color:blue;">vk.com/countrymc</mark>](https://vk.com/countrymc)<mark style="color:blue;"></mark>
+🔥 ВК » [<mark style="color:blue;">vk.com/countrymc</mark>](https://vk.com/countrymc)
 
 <figure><img src=".gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
