@@ -8,6 +8,7 @@
 
 * [🔎 Как зайти на сервер](start/kak-zaiti-na-server.md)
 * [🌍 Первые шаги](start/first-steps.md)
+* [🪙 Заработок](start/earnings.md)
 
 ## Города <a href="#towns" id="towns"></a>
 
@@ -23,7 +24,6 @@
 
 ## Разное <a href="#other" id="other"></a>
 
-* [🪙 Экономика](other/economic.md)
 * [💬 Чаты](other/chats.md)
 * [🔧 Кастомные крафты](other/crafts.md)
 * [☕ Напитки](other/drinks.md)
