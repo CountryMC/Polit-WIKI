@@ -46,7 +46,7 @@
 
 * **/t war** - меню войны
 
-<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Меню войны</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Меню войны</p></figcaption></figure>
 
 {% hint style="info" %}
 Стоимость присоединения к армии равна **50⛀**
@@ -130,7 +130,7 @@
 
 * **/t war result** - меню выбора результата войны
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Меню выбора результата войны</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Меню выбора результата войны</p></figcaption></figure>
 
 После выбора исхода, он сразу же начинает действовать и война считается завершённой.
 
