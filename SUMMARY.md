@@ -19,6 +19,7 @@
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
 * [🛡 Государства](towns/unions.md)
+* [☠ Войны](towns/wars.md)
 * [⚔ Рейды](towns/raids.md)
 * [⛺ Лагерь](towns/camp.md)
 

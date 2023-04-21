@@ -71,7 +71,7 @@ description: Прокачка города
 Нужно **1000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Дом правительства, Тренировочный лагерь_
