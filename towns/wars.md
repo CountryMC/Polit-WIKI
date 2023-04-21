@@ -14,7 +14,7 @@
 * **/t war time** - время до начала/конца войны
 * **/t war capture** - начать захват региона на котором стоишь
 * **/t war result** - меню выбора результата войны
-* **/t war result <тип>** - установить резултат войны
+* **/t war result <тип>** - установить результат войны
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
