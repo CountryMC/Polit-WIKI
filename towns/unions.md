@@ -30,6 +30,7 @@
 * **/nation top residents** - топ 15 государств по кол-ву жителей
 * **/nation top square** - топ 15 государств по площади
 * **/nation top time** - топ 15 государств по дате создания
+* **/nation online** - показывает жителей государства в сети
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
