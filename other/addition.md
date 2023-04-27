@@ -1,5 +1,15 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Безопасная высота</mark>
+
+ПВП ниже 20 высоты отключено
+
+{% hint style="warning" %}
+Безопасная высота не спасает от убийст во время рейда, война и т.п.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Добыча спавнеров</mark>
 
 Спавнера ломаются киркой с зачарованием **Шёлковое касание 1** и выше
