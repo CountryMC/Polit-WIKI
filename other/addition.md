@@ -1,5 +1,11 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Добыча спавнеров</mark>
+
+Спавнера ломаются киркой с зачарованием **Шёлковое касание 1** и выше
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+
 ## <mark style="color:purple;">Безопасный обмен</mark>
 
 Чтобы не быть обманутым при обмене, используй безопасный трейд.
@@ -13,16 +19,6 @@
 ## <mark style="color:purple;">Тотемы</mark>
 
 Тотемы бессмертия отключены и **не спасают** от смерти.
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Защита от ПВП в шахте</mark>
-
-Ниже 30 высоты ПВП отключено, ты можешь спокойно добывать ресурсы, не боясь, что тебя убьют.
-
-{% hint style="warning" %}
-Защита работает только в **верхнем** мире. В **аду** и **крае** - защиты нет!!!
-{% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
@@ -142,7 +138,7 @@
 
 Ты можешь создать лифт используя табличку с надписью _**\[лифт]**:_
 
-__![](<../.gitbook/assets/image (5) (1).png>)__
+![](<../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="info" %}
 Чтобы поднятся наверх нужно нажать **ПКМ** по табличке, а вниз — **Shift + ПКМ**
