@@ -2,7 +2,7 @@
 
 ## <mark style="color:purple;">Эндер-жемчуг</mark>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
 
 ## <mark style="color:purple;">Искажённый нилий</mark>
 

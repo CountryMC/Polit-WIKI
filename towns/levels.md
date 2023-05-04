@@ -57,7 +57,7 @@ description: Прокачка города
 Нужно **550⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Банк_
@@ -71,7 +71,7 @@ description: Прокачка города
 Нужно **1000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (8) (2) (1).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Дом правительства, Тренировочный лагерь_
@@ -85,7 +85,7 @@ description: Прокачка города
 Нужно **1850⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Военная академия, Гильдия строителей_
@@ -99,7 +99,7 @@ description: Прокачка города
 Нужно **3000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Библиотека_
