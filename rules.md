@@ -8,8 +8,6 @@ description: Правила проекта | Администрации
 
 ## <mark style="color:purple;">Правила проекта</mark>
 
-
-
 <details>
 
 <summary>Дополнение</summary>
@@ -155,6 +153,8 @@ description: Правила проекта | Администрации
    <mark style="color:red;">◦  Наказание : Снятие привилегии</mark>
 
 </details>
+
+##
 
 ## <mark style="color:purple;">Правила Администрации</mark>
 
