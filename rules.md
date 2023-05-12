@@ -242,3 +242,5 @@ description: Правила проекта | Администрации
 Выдавать наказания <mark style="color:blue;">**ССА**</mark> может только <mark style="color:red;">**РСА**</mark> и <mark style="color:blue;">**TL**</mark>.
 
 </details>
+
+#### Помогли в написании правил: **vendetta**, **DeathByMusic**, **KanzlerFuhrer**.
