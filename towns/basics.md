@@ -51,6 +51,10 @@ description: >-
 
 Количество всех регионов города также называется **площадью города**.
 
+{% hint style="info" %}
+Цена привата региона равна **10⛀** и увеличивается на **0.05%** за каждый регион.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Экономика города</mark>
