@@ -199,8 +199,8 @@ description: Правила проекта | Администрации
 ### <mark style="color:blue;">Старший Состав Администрации(ССА)</mark>
 
 * <mark style="color:blue;">**Team Lead**</mark> - администратор, отвечающий за старший состав Администрации, подчиняется Руководящему составу, имеет право на изменение\добавление правил, не может снимать\назначать Администрацию, но имеет право предложить это сделать, может выдать выговор составу младше чем он. Отвечает за весь Старший Состав Администрации и младший состав Администрации.
-* <mark style="color:blue;">**Moderator**</mark> - администратор, подчиняющийся <mark style="color:red;">**РСА**</mark> и <mark style="color:blue;">**TL**</mark>. Имеет право на предложение изменения правил. Может выдавать предупреждения Администраторам <mark style="color:green;">**МСА**</mark>.
-* <mark style="color:blue;">**Jr.Moderator**</mark> - администратор, подчиняющийся <mark style="color:red;">**РСА**</mark> и <mark style="color:blue;">**TL**</mark>. Имеет право на предложение изменения правил. Может выдавать предупреждения Администраторам <mark style="color:green;">**МСА**</mark>.
+* <mark style="color:blue;">**Moder**</mark> - администратор, подчиняющийся <mark style="color:red;">**РСА**</mark> и <mark style="color:blue;">**TL**</mark>. Имеет право на предложение изменения правил. Может выдавать предупреждения Администраторам <mark style="color:green;">**МСА**</mark>.
+* <mark style="color:blue;">**Jr.Moder**</mark> - администратор, подчиняющийся <mark style="color:red;">**РСА**</mark> и <mark style="color:blue;">**TL**</mark>. Имеет право на предложение изменения правил. Может выдавать предупреждения Администраторам <mark style="color:green;">**МСА**</mark>.
 
 ### <mark style="color:green;">Младший Состав Администрации</mark>
 
@@ -225,8 +225,8 @@ description: Правила проекта | Администрации
 #### Лимиты:
 
 * <mark style="color:blue;">**Team Lead**</mark> - 0/4 лимит наказаний
-* <mark style="color:blue;">**Moderator**</mark> - 0/4 лимит наказаний
-* <mark style="color:blue;">**Jr.Moderator**</mark>** -** 0/4 лимит наказаний
+* <mark style="color:blue;">**Moder**</mark> - 0/4 лимит наказаний
+* <mark style="color:blue;">**Jr.Moder**</mark>** -** 0/4 лимит наказаний
 * <mark style="color:green;">**Helper**</mark> - 0/3 лимит наказаний
 * <mark style="color:green;">**Jr.Helper**</mark> - 0/3 лимит наказаний
 * <mark style="color:green;">**Intern**</mark> - 0/2 лимит наказаний
