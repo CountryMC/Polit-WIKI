@@ -19,3 +19,9 @@
 ## <mark style="color:purple;">Кристалл края</mark>
 
 <figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Кристалл края</p></figcaption></figure>
+
+## <mark style="color:purple;">Сердце моря</mark>
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Сердце моря</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
