@@ -85,7 +85,7 @@ description: Прокачка города
 Нужно **1850⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Военная академия, Гильдия строителей_

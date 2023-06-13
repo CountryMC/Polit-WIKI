@@ -1,5 +1,9 @@
 # 🔧 Кастомные крафты
 
+## <mark style="color:purple;">Трезубец</mark>
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Трезубец</p></figcaption></figure>
+
 ## <mark style="color:purple;">Эндер-жемчуг</mark>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
