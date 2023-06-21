@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 О проекте](README.md)
-* [📒 Правила](rules.md)
+* [📒 Правила Политический](rules.md)
 * [✍ Команды](commands.md)
 
 ## Начало игры <a href="#start" id="start"></a>
