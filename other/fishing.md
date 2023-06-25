@@ -62,7 +62,7 @@
 
 ## <mark style="color:purple;">Продажа рыбы</mark>
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Иконка скупщика рыбы в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Иконка скупщика рыбы в меню(/fish menu)</p></figcaption></figure>
 
 Продавай рыбу и получай монеты. Чем более редкий вид рыбы тем больше монет.
 

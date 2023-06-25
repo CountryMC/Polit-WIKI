@@ -27,6 +27,7 @@
 ## Разное <a href="#other" id="other"></a>
 
 * [💬 Чаты](other/chats.md)
+* [🎙 Голосовой чат](other/golosovoi-chat.md)
 * [🔧 Кастомные крафты](other/crafts.md)
 * [☕ Напитки](other/drinks.md)
 * [🦈 Рыбалка](other/fishing.md)
