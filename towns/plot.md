@@ -95,6 +95,6 @@ description: Территория жителей города
 
 * **/plot** - меню участка на котором ты стоишь
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Меню участка</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption><p>Меню участка</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
