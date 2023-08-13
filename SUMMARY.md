@@ -2,7 +2,6 @@
 
 * [👋 О проекте](README.md)
 * [📘 Правила Политический](rules.md)
-* [📕 Привила Гриферский](rules-grief.md)
 * [✍ Команды](commands.md)
 
 ## Начало игры <a href="#start" id="start"></a>
