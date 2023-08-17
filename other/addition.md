@@ -1,5 +1,9 @@
 # ⚡ Дополнения
 
+## <mark style="color:purple;">Генератор булыжника</mark>
+
+Взаимодействие воды и лавы не генерирует булыжник, чтобы отключить возможность создавать лавакасты
+
 ## <mark style="color:purple;">Безопасная высота</mark>
 
 ПВП ниже 20 высоты отключено
@@ -7,8 +11,6 @@
 {% hint style="warning" %}
 Безопасная высота не спасает от убийст во время рейда, войны и т.п.
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Безопасный обмен</mark>
 
@@ -18,13 +20,9 @@
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Меню обмена</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Тотемы</mark>
 
 Тотемы бессмертия отключены и **не спасают** от смерти.
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Битва с Драконом</mark>
 
@@ -40,23 +38,17 @@
 После убийства Дракона его воскрешение ставится на перезарядку равную **6 часам**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Фермерство</mark>
 
 {% hint style="info" %}
 Рост растений замедлен на **50%**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Быстрая рубка дерева</mark>
 
 Для всех игроков доступна быстра рубка дерева всеми видами топора.
 
 * **/sm toggle** - Включить/Выключить режим быстрой рубки дерева топором
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Время продажи предметов у торговцев</mark>
 
@@ -79,8 +71,6 @@
 | Книга "Удача 2"         | Пятница, Суббота, Воскресенье                                           |
 | Книга "Удача 3"         | По нечётным неделям месяца                                              |
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Размножение животных и жителей</mark>
 
 Животных можно кормить только с **9:00** по **21:00** по игровому времени.
@@ -92,8 +82,6 @@
 {% hint style="warning" %}
 Ограничение на кол-во животных в чанке - 7 штук, жителей - 5 штук
 {% endhint %}
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Доступ в Ад и Край</mark>
 
@@ -121,8 +109,6 @@
 Если ты находишься в Крае или Аду в момент когда кончилось время работы порталов, то ты будешь телепортирован на спавн.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Ссылки на ВК и ДС</mark>
 
 Ты можешь добавить ссылки на социальные сети своего города, где идет общение твоих жителей, прямо на динамическую карту.
@@ -135,8 +121,6 @@
 * **/t reset discord** - удалить ссылку на дискорд
 * **/t set vk <ссылка>** - установить ссылку на вк(формат:**vk.com/id**)
 * **/t reset vk** - удалить ссылку на вк
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Лифт</mark>
 
