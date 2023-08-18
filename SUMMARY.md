@@ -25,8 +25,8 @@
 
 ## Государства <a href="#nations" id="nations"></a>
 
-* [🤓 Базовые понятия](nations/bazovye-ponyatiya.md)
-* [⚙ Настройка разрешений](nations/nastroika-razreshenii.md)
+* [🤓 Базовые понятия](nations/options.md)
+* [⚙ Настройка разрешений](nations/flags.md)
 
 ## Разное <a href="#other" id="other"></a>
 
