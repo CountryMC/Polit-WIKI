@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 О проекте](README.md)
-* [📘 Правила Политический](rules.md)
+* [📘 Правила](rules.md)
 * [✍ Команды](commands.md)
 
 ## Начало игры <a href="#start" id="start"></a>
@@ -22,6 +22,11 @@
 * [☠ Войны](towns/wars.md)
 * [⚔ Рейды](towns/raids.md)
 * [⛺ Лагерь](towns/camp.md)
+
+## Государства <a href="#nations" id="nations"></a>
+
+* [🤓 Базовые понятия](nations/bazovye-ponyatiya.md)
+* [⚙ Настройка разрешений](nations/nastroika-razreshenii.md)
 
 ## Разное <a href="#other" id="other"></a>
 
