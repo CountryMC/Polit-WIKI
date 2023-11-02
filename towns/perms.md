@@ -5,7 +5,7 @@
 ## <mark style="color:purple;">Команды</mark>
 
 * **/t rank perm <право> <ник>** - выдать/забрать право у жителя
-* **/t rank add <ранг>** - выдать жителю ранг
+* **/t rank add <ранг> <ник>** - выдать жителю ранг
 * **/t set mayor <ник>** - передать владение городом другому жителю
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
