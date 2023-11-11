@@ -19,7 +19,7 @@
 <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption><p>Товары скупщика</p></figcaption></figure>
 
 {% hint style="info" %}
-Цена на все товары обновляется раз в **60 секунд** на **1%**
+Цена на все товары обновляется раз в **30 секунд** на **1%**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

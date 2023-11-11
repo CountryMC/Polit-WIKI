@@ -18,6 +18,7 @@
 * [🏕 Участки](towns/plot.md)
 * [🏫 Здания](towns/buildings.md)
 * [⚖ Ранги и права](towns/perms.md)
+* [🧙♂ Религия](towns/religiya.md)
 * [☠ Войны](towns/wars.md)
 * [⚔ Рейды](towns/raids.md)
 * [⛺ Лагерь](towns/camp.md)
