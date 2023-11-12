@@ -47,7 +47,7 @@ description: Прокачка города
 * **Максимум регионов**: 90
 
 {% hint style="info" %}
-Начиная со второго уровня город может вступать в союзы.
+Начиная со второго уровня город может вступать в союзы, жетели могут принимать религию.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
@@ -77,6 +77,10 @@ description: Прокачка города
 * **Новые здания**: _Дом правительства, Тренировочный лагерь_
 * **Максимум жителей**: 70
 * **Максимум регионов**: 690
+
+{% hint style="info" %}
+Начиная с четвёртого уровня город может принять религию.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
