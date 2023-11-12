@@ -31,7 +31,7 @@
 * **/t relig invite <ник>** - предложить игроку принять твою религию
 
 {% hint style="info" %}
-За каждого обращённого игрока ты получишь **75⛀**
+За каждого обращённого игрока ты получишь **45⛀**
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
