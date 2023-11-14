@@ -17,9 +17,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">1 уровень</mark>
 
-Нужно **0⛀** + ресурсы:\
-\
-
+Нужно **0⛀** + ресурсы:
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
@@ -36,10 +34,9 @@ description: Прокачка города
 
 ### <mark style="color:blue;">2 уровень</mark>
 
-Нужно **200⛀** + ресурсы:\
+Нужно **200⛀** + ресурсы:
 
-
-<figure><img src="../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-11-14 23-05-06.png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: _Арена_
 * **Новые здания**: _Железнодорожная станция_
@@ -54,8 +51,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">3 уровень</mark>
 
-Нужно **550⛀** + ресурсы:\
-
+Нужно **550⛀** + ресурсы:
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
@@ -68,10 +64,9 @@ description: Прокачка города
 
 ### <mark style="color:blue;">4 уровень</mark>
 
-Нужно **1000⛀** + ресурсы:\
+Нужно **1000⛀** + ресурсы:
 
-
-<figure><img src="../.gitbook/assets/image (1) (7).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Дом правительства, Тренировочный лагерь_
@@ -86,8 +81,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">5 уровень</mark>
 
-Нужно **1850⛀** + ресурсы:\
-
+Нужно **1850⛀** + ресурсы:
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
@@ -100,8 +94,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">6 уровень</mark>
 
-Нужно **3000⛀** + ресурсы:\
-
+Нужно **3000⛀** + ресурсы:
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
