@@ -15,7 +15,7 @@ description: Прокачка города
 
 ## <mark style="color:purple;">Уровни</mark>
 
-### <mark style="color:blue;">I</mark>
+### <mark style="color:blue;">1 уровень</mark>
 
 Нужно **0⛀** + ресурсы:\
 \
@@ -34,7 +34,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">II</mark>
+### <mark style="color:blue;">2 уровень</mark>
 
 Нужно **200⛀** + ресурсы:\
 
@@ -52,7 +52,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">III</mark>
+### <mark style="color:blue;">3 уровень</mark>
 
 Нужно **550⛀** + ресурсы:\
 
@@ -66,7 +66,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">IV</mark>
+### <mark style="color:blue;">4 уровень</mark>
 
 Нужно **1000⛀** + ресурсы:\
 
@@ -84,7 +84,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">V</mark>
+### <mark style="color:blue;">5 уровень</mark>
 
 Нужно **1850⛀** + ресурсы:\
 
@@ -98,7 +98,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">VI</mark>
+### <mark style="color:blue;">6 уровень</mark>
 
 Нужно **3000⛀** + ресурсы:\
 
