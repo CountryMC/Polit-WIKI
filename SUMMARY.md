@@ -30,6 +30,7 @@
 
 ## Разное <a href="#other" id="other"></a>
 
+* [🔫 Огнестрельное оружие](other/ognestrelnoe-oruzhie.md)
 * [💬 Чаты](other/chats.md)
 * [🎙 Голосовой чат](other/voice-chat.md)
 * [🔧 Кастомные крафты](other/crafts.md)
