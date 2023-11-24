@@ -22,6 +22,7 @@
 * [☠ Войны](towns/wars.md)
 * [⚔ Рейды](towns/raids.md)
 * [⛺ Лагерь](towns/camp.md)
+* [🚧 Санкции](towns/sankcii.md)
 
 ## Государства <a href="#nations" id="nations"></a>
 
