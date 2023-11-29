@@ -22,8 +22,8 @@
 * [☠ Войны](towns/wars.md)
 * [⚔ Рейды](towns/raids.md)
 * [⛺ Лагерь](towns/camp.md)
-* [🚧 Санкции](towns/sankcii.md)
-* [📬 Всемирный Конгресс](towns/vsemirnyi-kongress.md)
+* [🚧 Санкции](towns/sanctions.md)
+* [📬 Всемирный Конгресс](towns/kongress.md)
 
 ## Государства <a href="#nations" id="nations"></a>
 
