@@ -7,6 +7,12 @@
 * **/shop** - меню покупки оружия и патронов
 * **/weapondurability** - посмотреть прочность оружия
 
+
+
+* **ЛКМ** - Выстрелить
+* **ПКМ** - Прицелиться
+* **Shift** - Перезарядка
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Виды оружия</mark>
