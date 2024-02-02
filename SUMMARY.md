@@ -32,6 +32,7 @@
 
 ## Разное <a href="#other" id="other"></a>
 
+* [🍹 Напитки](other/drinks.md)
 * [🚜 Транспорт](other/transport.md)
 * [🔫 Огнестрельное оружие](other/guns.md)
 * [💬 Чаты](other/chats.md)
