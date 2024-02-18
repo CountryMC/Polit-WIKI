@@ -83,6 +83,7 @@ description: Прокачка города
 Возможности:
 
 * город может принять религию
+* доступно распространение религии
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
