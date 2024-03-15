@@ -19,7 +19,7 @@ description: Прокачка города
 
 Нужно **0⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
@@ -72,7 +72,7 @@ description: Прокачка города
 
 Нужно **1000⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Доступные участки**: Все
 * **Новые здания**: _Дом правительства, Земельная служба, Резиденция_
