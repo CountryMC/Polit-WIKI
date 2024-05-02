@@ -3,6 +3,7 @@
 * [👋 О проекте](README.md)
 * [📘 Правила](rules.md)
 * [✍️ Команды](commands.md)
+* [⭐ Благодарности](thanks.md)
 
 ## Начало игры <a href="#start" id="start"></a>
 
