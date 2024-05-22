@@ -35,6 +35,7 @@ description: Государства - это объединение нескол
 * **/nation top square** - топ 15 государств по площади
 * **/nation top time** - топ 15 государств по дате создания
 * **/nation online** - показывает жителей государства в сети
+* **/nation online <государство>** - показывает жителей государства в сети для определенного государства
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
