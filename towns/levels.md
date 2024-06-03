@@ -17,9 +17,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">1 уровень</mark>
 
-Нужно **0⛀** + ресурсы:
+Нужно **0⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
