@@ -9,9 +9,9 @@
 
 
 
-* **ЛКМ** - Выстрелить
-* **ПКМ** - Прицелиться
-* **Shift** - Перезарядка
+* **ПКМ** - Выстрелить
+* **ЛКМ** - Прицелиться
+* **Q** - Перезарядка
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
