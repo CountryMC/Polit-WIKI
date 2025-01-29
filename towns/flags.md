@@ -30,14 +30,15 @@ layout:
 | **allowPvp**                   | Включить/отключить пвп в городе                                                                                                          | **/t flag allowPvp**                   |
 | **allowPublicVillagers**       | Включить/отключить публичных НПС жителей. Если флаг отлючен, то с жителями в городе могут торговать только игроки живущие в этом городе. | **/t flag allowPublicVillagers**       |
 | **allowPublicNationVillagers** | Включить/отключить публичных НПС жителей для  жителей государства                                                                        | **/t flag allowPublicNationVillagers** |
-| **allowPublicReg**             | Сделать все регионы без владельцев публичными для своих жителей(они смогут открывать сундуки, ломать, строить)                           | **/t flag set allowPublicReg**         |
-| **allowAlienExp**              | Включить/отключить возможность чужакам получать опыт в городе                                                                            | **/t flag set allowAlienExp**          |
-| **allowFriendlyFire**          | Включить/отключить возможность наносить урон по своим же жителям                                                                         | **/t flag set allowFriendlyFire**      |
+| **allowPublicReg**             | Сделать все регионы без владельцев публичными для своих жителей(они смогут открывать сундуки, ломать, строить)                           | **/t flag allowPublicReg**             |
+| **allowAlienExp**              | Включить/отключить возможность чужакам получать опыт в городе                                                                            | **/t flag allowAlienExp**              |
+| **allowFriendlyFire**          | Включить/отключить возможность наносить урон по своим же жителям                                                                         | **/t flag allowFriendlyFire**          |
 | **allowBuildInCamp**           | Включить/отключить возможность строить в лагере города                                                                                   | **/t flag allowBuildInCamp**           |
 | **allowBreakSpawners**         | Включить/отключить возможность жителям ломать спавнера на территории города                                                              | **/t flag allowBreakSpawners**         |
 | **allowPublicBeacon**          | Включить/отключить возможность чужакам получать эффекты от маяков в городе                                                               | **/t flag allowPublicBeacon**          |
-| **allowMobDamage**             | Включить/отключить возможность любым  игрокам наносить урон по мирным мобам в городе                                                     | **/t flag set allowMobDamage**         |
-| **allowPublicVehicles**        | Включить/отключить возможность чужим игрокам пользоваться лодками и вагонетками(обычными без сунука, воронки и динамита) в городе        | **/t flag set allowPublicVehicles**    |
+| **allowMobDamage**             | Включить/отключить возможность любым  игрокам наносить урон по мирным мобам в городе                                                     | **/t flag allowMobDamage**             |
+| **allowPublicVehicles**        | Включить/отключить возможность чужим игрокам пользоваться лодками и вагонетками(обычными без сунука, воронки и динамита) в городе        | **/t flag allowPublicVehicles**        |
+| **allowPublicTp**              | Включить/отключить возможность чужим игрокам телепортироваться в город(**/t spawn <город>**)                                             | **/t flag allowPublicTp**              |
 
 {% hint style="warning" %}
 Подоходный налог не может быть меньше **1%** и больше **60%**
