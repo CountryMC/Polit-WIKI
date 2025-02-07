@@ -2,6 +2,8 @@
 
 Специально для новичков было снято короткое видео о том, как начать играть на сервере.
 
-{% embed url="https://youtu.be/sgF-QFCDUsA" %}
-Видео-инструкция как зайти на сервер CountryMC
+
+
+{% embed url="https://youtu.be/n1uqWagVsQc?si=F-78kBc2wPi8Sfgj" %}
+Гайд как зайти на сервер
 {% endembed %}
