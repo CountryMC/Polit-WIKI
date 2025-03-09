@@ -24,7 +24,7 @@ layout:
 
 🎮 Айпи » **play.countrymc.net**\
 🎮 Айпи(Украина) » **ua.countrymc.net**\
-🎮 Айпи(Bedrock) » **be.countrymc.net**\
+🎮 Айпи(Телефон) » **be.countrymc.net**\
 \
 💰 Сайт » [<mark style="color:blue;">countrymc.net</mark>](https://vk.com/away.php?to=http%3A%2F%2Fcountrymc.net\&cc_key=)\
 🔥 Дискорд » [<mark style="color:blue;">discord.gg/s64dtn5jCR</mark>](https://discord.gg/s64dtn5jCR)\
