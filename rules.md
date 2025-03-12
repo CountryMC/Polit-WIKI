@@ -168,33 +168,40 @@ description: Правила проекта и Администрации
 
 <summary>Глава [5] : Нечестная игра</summary>
 
-1.  **Использование/Хранение постороннего программного обеспечения помогающего облегчить геймплей:**
+1.  **Использование/Хранение постороннего программного обеспечения помогающего облегчить геймплей:**\
+    **Список запрещённых программ:**
 
-    > **Ресурспаки**
-
-    * на X-ray
-    * и тд.
-
-    > **Чит клиенты**
-
-    * Ares
-    * Impact
-    * Nodus
-    * Celestial
-    * и тд.
-
-    > **Моды на авто-игру**
-
-    * Baritone
-    * Auto damage
-    * Auto Attack
-    * Advanced XRay
-    * и тд.
+    > * Inventory Profiles Next
+    > * elytraswap/elytramenegmant
+    > * autototem
+    > * xray
+    > * bariton
+    > * feather
+    > * diamondsim
+    > * ElytraAutoPilot​
+    > * AutoAttack
+    > * AutoClicker
+    > * CleanCut
+    > * AutoSwitch
+    > * AutoTool
+    > * ClientCommands
+    > * Impact
+    > * Inertia
+    > * Aristois
+    > * ItemSwapper
+    > * LavaClearView
+    > * Sigma
+    > * Wall-Jump
+    > * Tweakeroo
+    > * Trajectory Preview
+    > * Wurst
+    > * crystaloptimizer
+    > * inventory\_walk
 
     <mark style="color:red;">◦ Наказание: Бан от 7 до 45 дней Признание до проверки снижает срок на 30% с округлением в большую сторону</mark>
 2. **Использование авто рыбалки**\
    <mark style="color:red;">◦ Наказание: Кик и конфискация всех вещей включая сундуки и тп. с уловом, при повторе бан на 1 день. В случае, если авто рыбалка происходит с нескольких аккаунтов и одного айпи одновременно - бан на 3 дня</mark>\
-   <mark style="color:blue;">**Наказание выдается, если игрок, заподозренный в афк рыбалке, не отвечает в игровом чате администратору в течении 15 секунд**</mark>
+   <mark style="color:blue;">**Наказание выдается, если игрок, заподозренный в афк рыбалке, никаким образом не реагирует на просьбу администратора доказать игру не в афк**</mark>
 
 </details>
 
