@@ -20,7 +20,7 @@
 
 ## <mark style="color:purple;">Основы войны</mark>
 
-Война состоит из трех этапов: <mark style="color:orange;">**Подготовка**</mark>** -> **<mark style="color:orange;">**Атака**</mark>** -> **<mark style="color:orange;">**Исход**</mark>.&#x20;
+Война состоит из трех этапов: <mark style="color:orange;">**Подготовка**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Атака**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Исход**</mark>.&#x20;
 
 Война начинается автоматически как только город защиты принял объявление войны.
 
