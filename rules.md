@@ -171,7 +171,7 @@ description: Правила проекта и Администрации
 1.  **Использование/Хранение постороннего программного обеспечения помогающего облегчить геймплей:**\
     **Список запрещённых программ:**
 
-    > * Inventory Profiles Next
+    > * Inventory Profiles Next(только при ПВП)
     > * elytraswap/elytramenegmant
     > * autototem
     > * xray
@@ -180,7 +180,6 @@ description: Правила проекта и Администрации
     > * diamondsim
     > * ElytraAutoPilot​
     > * AutoAttack
-    > * AutoClicker
     > * CleanCut
     > * AutoSwitch
     > * AutoTool
