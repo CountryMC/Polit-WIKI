@@ -33,7 +33,8 @@ layout:
 \
 🌍 Карта Сириус » [<mark style="color:blue;">sirius.countrymc.net</mark>](https://sirius.countrymc.net)\
 🌍 Карта Вега » [<mark style="color:blue;">vega.countrymc.net</mark>](https://sirius.countrymc.net)\
-🌍 Карта Антарес » [<mark style="color:blue;">antares.countrymc.net</mark>](https://antares.countrymc.net)
+🌍 Карта Антарес » [<mark style="color:blue;">antares.countrymc.net</mark>](https://antares.countrymc.net)\
+🌍 Карта Титан » [<mark style="color:blue;">titan.countrymc.net</mark>](https://titan.countrymc.net)
 
 <figure><img src=".gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
