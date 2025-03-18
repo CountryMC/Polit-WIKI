@@ -176,7 +176,7 @@ description: Правила проекта и Администрации
     > * autototem
     > * xray
     > * bariton
-    > * feather
+    > * feather(при использовании elytraswap)
     > * diamondsim
     > * ElytraAutoPilot​
     > * AutoAttack
