@@ -172,6 +172,7 @@ description: Правила проекта и Администрации
     **Список запрещённых программ:**
 
     > * Inventory Profiles Next(только при ПВП)
+    > * Auto-clicker(только при ПВП)
     > * elytraswap/elytramenegmant
     > * autototem
     > * xray
