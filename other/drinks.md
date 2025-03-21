@@ -53,6 +53,10 @@ description: Гайд по варке напитков из плагина Brewe
 
 ### <mark style="color:blue;">Типы бочек</mark>
 
+{% hint style="danger" %}
+Доступ к бочкам есть у всех игроков, поэтому создавайте их безопастных от других игроков местах!!!
+{% endhint %}
+
 **Стандартная бочка** | _6 слотов_
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Стандартная бочка</p></figcaption></figure>
