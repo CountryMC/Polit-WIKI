@@ -22,6 +22,10 @@ description: Пакт позволяет заключить определённ
 
 * **/t pact cancel <город> <пакт>** - расторгнуть пакт с городом
 
+{% hint style="success" %}
+Заключать и расторгать пакты может только житель с рангом **Дипломат**
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:purple;">Типы пактов</mark>
