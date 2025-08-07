@@ -14,8 +14,6 @@ description: Дополнительные возможности для горо
 * **`/b buy <здание>`** - купить здание
 * **`/b lvlup <здание>`** - улучшить здание
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
 ## <mark style="color:purple;">Типы зданий</mark>
 
 ## <mark style="color:yellow;">1 Уровень города</mark>
