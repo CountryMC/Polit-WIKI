@@ -8,8 +8,11 @@ description: Прокачка города
 
 ## <mark style="color:purple;">Команды</mark>
 
-* **/t lvlup** - увеличить уровень города
+* **/t lvlup** - прокачать уровень города
+* **/t levels** - окрыть меню уровней города
 * **/t lvlup info <уровень>** - посмотреть недостающие ресурсы для повышения на указанный уровень
+
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Меню уровней /t levels</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
