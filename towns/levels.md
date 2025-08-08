@@ -74,7 +74,7 @@ description: Прокачка города
 * **Максимум регионов**: 240
 
 {% hint style="info" %}
-- вохможнсть начать [raids.md](raids.md "mention")
+- возможнсть начать [raids.md](raids.md "mention")
 - возможность отправлять торговый обоз в другой город
 {% endhint %}
 
