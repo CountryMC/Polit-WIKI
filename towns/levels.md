@@ -20,7 +20,10 @@ description: Прокачка города
 Нужно **0⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
+\
+
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
@@ -37,7 +40,7 @@ description: Прокачка города
 Нужно **350⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#tamozhnya](buildings.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings.md#meriya "mention"), [#svyatynya-ada](buildings.md#svyatynya-ada "mention")
 * **Максимум жителей**: 20
@@ -58,7 +61,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">3 Уровень</mark>
 
-Нужно 100**0⛀** + ресурсы:\
+Нужно **1000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
@@ -80,7 +83,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">4 Уровень</mark>
 
-Нужно 20**00⛀** + ресурсы:\
+Нужно **2000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
@@ -101,7 +104,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">5 Уровень</mark>
 
-Нужно 5**000⛀** + ресурсы:\
+Нужно **5000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
@@ -114,7 +117,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">6 Уровень</mark>
 
-Нужно 10**000⛀** + ресурсы:\
+Нужно **10000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
@@ -127,7 +130,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">7 Уровень</mark>
 
-Нужно 15**000⛀** + ресурсы:
+Нужно **15000⛀** + ресурсы:
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ресурсы для 7 уровня города</p></figcaption></figure>
 
@@ -139,9 +142,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">8 Уровень</mark>
 
-Нужно 25**000⛀** + ресурсы:
+Нужно **25000⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ресурсы для 8 уровня города</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Ресурсы для 8 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#remontnaya-masterskaya](buildings.md#remontnaya-masterskaya "mention")
 * **Максимум жителей**: 200
