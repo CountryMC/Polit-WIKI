@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ⚙️ Настройка разрешений
 
 У каждого государства есть определенные разрешения(флаги), которые можно регулировать.

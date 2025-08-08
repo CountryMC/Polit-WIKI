@@ -2,20 +2,6 @@
 description: 🎮 IP » play.countrymc.net | Версия 1.13 - 1.22
 cover: .gitbook/assets/cover2.jpg
 coverY: -50.10040705563094
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 О проекте
