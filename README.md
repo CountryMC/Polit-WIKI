@@ -19,7 +19,7 @@ coverY: -50.10040705563094
 \
 🌍 Карта Сириус » [<mark style="color:blue;">sirius.countrymc.net</mark>](https://sirius.countrymc.net)\
 🌍 Карта Вега » [<mark style="color:blue;">vega.countrymc.net</mark>](https://vega.countrymc.net)\
-🌍 Карта Титан » [<mark style="color:blue;">titan.countrymc.net</mark>](https://titan.countrymc.net)
+🌍 Карта Антарес » [<mark style="color:blue;">antares.countrymc.net</mark>](https://antares.countrymc.net/)
 
 <figure><img src=".gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
