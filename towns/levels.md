@@ -40,7 +40,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">2 Уровень</mark>
 
-Нужно **350⛀** + ресурсы:\
+Нужно **200⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
@@ -64,7 +64,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">3 Уровень</mark>
 
-Нужно **1000⛀** + ресурсы:\
+Нужно **500⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
@@ -86,7 +86,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">4 Уровень</mark>
 
-Нужно **2000⛀** + ресурсы:\
+Нужно **1500⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
@@ -107,7 +107,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">5 Уровень</mark>
 
-Нужно **5000⛀** + ресурсы:\
+Нужно **3000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
@@ -120,7 +120,7 @@ description: Прокачка города
 
 ### <mark style="color:blue;">6 Уровень</mark>
 
-Нужно **10000⛀** + ресурсы:\
+Нужно **7000⛀** + ресурсы:\
 
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
