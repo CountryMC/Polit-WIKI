@@ -151,6 +151,10 @@
 
 ## <mark style="color:purple;">Лифт</mark>
 
+На сервере есть два типа лифтов: на табличка и на платформах
+
+### Лифт на табличках
+
 Ты можешь создать лифт используя табличку с надписью **\[лифт]**:
 
 ![](<../.gitbook/assets/image (5) (1) (1).png>)
@@ -163,5 +167,18 @@
 Лифт будет работать только если такие таблички есть на каждом этаже!!!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
+### Лифт на платформах
 
+Ты можешь скрафтить платформы лифта:
+
+<div><figure><img src="../.gitbook/assets/Screenshot from 2025-08-16 23-26-51.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot from 2025-08-16 23-26-58.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot from 2025-08-16 23-27-06.png" alt=""><figcaption></figcaption></figure></div>
+
+И разместить их друг над другом:
+
+<figure><img src="../.gitbook/assets/Screenshot from 2025-08-17 01-08-31.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Чтобы поднятся наверх нужно нажать встать на платформу и нажать Пробел, а чтобы опуститься - Шифт
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
