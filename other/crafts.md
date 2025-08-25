@@ -6,11 +6,11 @@ hidden: true
 
 ## <mark style="color:purple;">Трезубец</mark>
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Трезубец</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption><p>Трезубец</p></figcaption></figure>
 
 ## <mark style="color:purple;">Эндер-жемчуг</mark>
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>Эндер-жемчуг</p></figcaption></figure>
 
 ## <mark style="color:purple;">Нитки</mark>
 

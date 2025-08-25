@@ -43,7 +43,7 @@ description: Прокачка города
 Нужно **200⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#tamozhnya](buildings.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings.md#meriya "mention"), [#svyatynya-ada](buildings.md#svyatynya-ada "mention")
 * **Максимум жителей**: 20
@@ -64,10 +64,9 @@ description: Прокачка города
 
 ### <mark style="color:blue;">3 Уровень</mark>
 
-Нужно **500⛀** + ресурсы:\
+Нужно **500⛀** + ресурсы:
 
-
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#zhilichnoe-khozyaistvo](buildings.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings.md#torgovaya-palata "mention"), [#posolstvo](buildings.md#posolstvo "mention")
 * **Максимум жителей**: 40
@@ -89,7 +88,7 @@ description: Прокачка города
 Нужно **1500⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#svyatynya-kraya](buildings.md#svyatynya-kraya "mention"), [#bank](buildings.md#bank "mention"), [#citadel](buildings.md#citadel "mention"), [#rezidenciya](buildings.md#rezidenciya "mention")
 * **Максимум жителей**: 70
@@ -110,7 +109,7 @@ description: Прокачка города
 Нужно **3000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#kongress](buildings.md#kongress "mention"), [#gildiya-stroitelei](buildings.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings.md#oruzheinyi-zavod "mention")
 * **Максимум жителей**: 100
@@ -123,9 +122,9 @@ description: Прокачка города
 Нужно **7000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#dom-pravitelstva](buildings.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings.md#voennaya-akademiya "mention")
+* **Новые здания**: [#dom-pravitelstva](buildings.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings.md#voennaya-akademiya "mention"), [#zemelnaya-sluzhba](buildings.md#zemelnaya-sluzhba "mention")
 * **Максимум жителей**: 150
 * **Максимум регионов**: 1540
 
@@ -133,11 +132,12 @@ description: Прокачка города
 
 ### <mark style="color:blue;">7 Уровень</mark>
 
-Нужно **15000⛀** + ресурсы:
+Нужно **8500⛀** + ресурсы:\
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Ресурсы для 7 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#zemelnaya-sluzhba](buildings.md#zemelnaya-sluzhba "mention"), [#biblioteka](buildings.md#biblioteka "mention")
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Ресурсы для 7 уровня города</p></figcaption></figure>
+
+* **Новые здания**: [#biblioteka](buildings.md#biblioteka "mention")
 * **Максимум жителей**: 170
 * **Максимум регионов**: 2340
 
@@ -145,10 +145,10 @@ description: Прокачка города
 
 ### <mark style="color:blue;">8 Уровень</mark>
 
-Нужно **25000⛀** + ресурсы:\
+Нужно **13000⛀** + ресурсы:\
 
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Ресурсы для 8 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Ресурсы для 8 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#remontnaya-masterskaya](buildings.md#remontnaya-masterskaya "mention")
 * **Максимум жителей**: 200

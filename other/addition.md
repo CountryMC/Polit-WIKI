@@ -45,7 +45,7 @@
 
 * **/trade <ник>** - отправить игроку приглашение на сделку
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Меню обмена</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Меню обмена</p></figcaption></figure>
 
 ## <mark style="color:purple;">Тотемы</mark>
 
@@ -157,7 +157,7 @@
 
 Ты можешь создать лифт используя табличку с надписью **\[лифт]**:
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 {% hint style="info" %}
 Чтобы поднятся наверх нужно нажать **ПКМ** по табличке, а вниз — **Shift + ПКМ**
