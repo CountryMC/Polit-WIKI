@@ -27,6 +27,7 @@
 * [🎗️ Пакты](towns/pacts.md)
 * [📬 Всемирный Конгресс](towns/kongress.md)
 * [🐎 Торговый обоз](towns/oboz.md)
+* [🚪 Квартиры](towns/kvartiry.md)
 
 ## Государства <a href="#nations" id="nations"></a>
 
