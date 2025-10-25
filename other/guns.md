@@ -17,6 +17,20 @@
 
 ## <mark style="color:purple;">Виды оружия</mark>
 
+### Автомат ППШ
+
+<figure><img src="../.gitbook/assets/photo_2025-10-17_18-00-22.jpg" alt=""><figcaption><p>Автомат ППШ</p></figcaption></figure>
+
+### Автомат MP-40
+
+<figure><img src="../.gitbook/assets/photo_2025-10-17_18-01-24.jpg" alt=""><figcaption><p>Автомат MP-40</p></figcaption></figure>
+
+### Автомат Томпсона
+
+<figure><img src="../.gitbook/assets/photo_2025-10-17_18-01-25.jpg" alt=""><figcaption><p>Автомат Томпсона</p></figcaption></figure>
+
+###
+
 ### Винтовка Мосина
 
 <figure><img src="../.gitbook/assets/mosin_3.png" alt=""><figcaption><p>Винтовка Мосина</p></figcaption></figure>
