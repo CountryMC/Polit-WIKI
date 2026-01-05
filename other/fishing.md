@@ -8,17 +8,15 @@
 * Крафт **бустеров** для своей удочки
 * Более **50 видов** новых рыб
 
-## <mark style="color:purple;">Команды</mark>
+## <mark style="color:$primary;">Команды</mark>
 
-* **/fish menu** - меню рыбалки, откуда можно совершать все действия связанные с рыбалкой
+* **`/fish menu`** - меню рыбалки, откуда можно совершать все действия связанные с рыбалкой
 
 {% hint style="info" %}
 Также меню можно держа удочку в руках и кликнув на **любую клавишу мыши** при зажатой клавише **Shift**(**Shift + Клик**)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Основы</mark>
+## <mark style="color:$primary;">Основы</mark>
 
 При поимке рыбы ты будешь получать **опыт**, который нужен для прокачки уровня рыбака, и **Якори⚓**, специальную валюту, которая нужна для прокачки навыков и создания бустеров для удочки.
 
@@ -26,9 +24,7 @@
 Уровень рыбака прокачивается автоматически, тебе нужно просто ловить рыбу.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">**Якори⚓**</mark>
+## <mark style="color:$primary;">**Якори⚓**</mark>
 
 Якори можно получить двумя способами:
 
@@ -40,9 +36,7 @@
 * На изучение навыков
 * На крафт бустеров для удочки
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Турниры</mark>
+## <mark style="color:$primary;">Турниры</mark>
 
 Раз в три часа на сервере проходят рыболовные турниры с призами:
 
@@ -50,25 +44,19 @@
 * Определенный вид рыбы
 * Наибольший улов
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Разделка рыбы</mark>
+## <mark style="color:$primary;">Разделка рыбы</mark>
 
 <figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Иконка разделки рыбы в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь разделывать пойманную рыбу и получать **Якори⚓**. Чем более редкий вид рыбы тем больше якорей.
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Продажа рыбы</mark>
+## <mark style="color:$primary;">Продажа рыбы</mark>
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>Иконка скупщика рыбы в меню(/fish menu)</p></figcaption></figure>
 
 Продавай рыбу и получай монеты. Чем более редкий вид рыбы тем больше монет.
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Взвешивание рыбые</mark>
+## <mark style="color:$primary;">Взвешивание рыбые</mark>
 
 <figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Иконка весов в меню(/fish menu)</p></figcaption></figure>
 
@@ -78,24 +66,18 @@
 После взвешивания есть шанс, что стоимость рыбы будет меньше изначальной
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Навыки</mark>
+## <mark style="color:$primary;">Навыки</mark>
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Иконка навыков в меню(/fish menu)</p></figcaption></figure>
 
 Изучай навыки, которые дадут тебе очень приятные бонусы при рыбалке.
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Бустеры</mark>
+## <mark style="color:$primary;">Бустеры</mark>
 
 <figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>Иконка бустеров в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь улучшать свою удочку, добавляя к ней бустеры. У каждого бустера есть несколько уровней прокачки.
 
-### <mark style="color:blue;">Крафт бустеров</mark>
+### <mark style="color:$primary;">Крафт бустеров</mark>
 
 Для крафта бустеров понадобится Котёл с водой, куда ты должен сбросить все ресурсы из рецепта бустера, после чего кликнуть(ЛКМ) по котлу удочкой.
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

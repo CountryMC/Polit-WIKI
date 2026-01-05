@@ -269,5 +269,3 @@ description: Все команды касающиеся городов и не �
 * **/fish menu** - Меню рыбалки
 
 </details>
-
-<figure><img src=".gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
