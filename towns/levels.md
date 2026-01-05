@@ -6,19 +6,19 @@ description: Прокачка города
 
 По мере игры, тебе предстоит прокачивать либо свой либо чужой город. Каждый город при создании имеет **первый** уровень, после чего его можно улучшать вплоть до **шестого**, получая бонусы.
 
-## <mark style="color:purple;">Команды</mark>
+## <mark style="color:$primary;">Команды</mark>
 
-* **/t lvlup** - прокачать уровень города
-* **/t levels** - окрыть меню уровней города
-* **/t lvlup info <уровень>** - посмотреть недостающие ресурсы для повышения на указанный уровень
+* **`/t lvlup`** - прокачать уровень города
+* **`/t levels`** - окрыть меню уровней города
+* **`/t lvlup info <уровень>`** - посмотреть недостающие ресурсы для повышения на указанный уровень
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Меню уровней /t levels</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Уровни</mark>
+## <mark style="color:$primary;">Уровни</mark>
 
-### <mark style="color:blue;">1 Уровень</mark>
+### <mark style="color:$info;">1 Уровень</mark>
 
 Нужно **0⛀** + ресурсы:<br>
 
@@ -34,7 +34,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">2 Уровень</mark>
+### <mark style="color:$info;">2 Уровень</mark>
 
 Нужно **50⛀** + ресурсы:<br>
 
@@ -57,7 +57,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">3 Уровень</mark>
+### <mark style="color:$info;">3 Уровень</mark>
 
 Нужно **130⛀** + ресурсы:
 
@@ -78,7 +78,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">4 Уровень</mark>
+### <mark style="color:$info;">4 Уровень</mark>
 
 Нужно **350⛀** + ресурсы:<br>
 
@@ -98,7 +98,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">5 Уровень</mark>
+### <mark style="color:$info;">5 Уровень</mark>
 
 Нужно **1000⛀** + ресурсы:<br>
 
@@ -110,7 +110,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">6 Уровень</mark>
+### <mark style="color:$info;">6 Уровень</mark>
 
 Нужно **3000⛀** + ресурсы:<br>
 
@@ -122,7 +122,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">7 Уровень</mark>
+### <mark style="color:$info;">7 Уровень</mark>
 
 Нужно **6000⛀** + ресурсы:<br>
 
@@ -134,7 +134,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">8 Уровень</mark>
+### <mark style="color:$info;">8 Уровень</mark>
 
 Нужно **10000⛀** + ресурсы:<br>
 
