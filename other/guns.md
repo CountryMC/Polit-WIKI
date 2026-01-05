@@ -2,10 +2,10 @@
 
 На серверах **Вега** и **Анприм** игрокам доступно огнестрельное оружие. Его можно купить у **Оружейника** на спавне.
 
-## <mark style="color:purple;">Команды</mark>
+## <mark style="color:$primary;">Команды</mark>
 
-* **/shop** - меню покупки оружия и патронов
-* **/weapondurability** - посмотреть прочность оружия
+* **`/shop`** - меню покупки оружия и патронов
+* **`/weapondurability`** - посмотреть прочность оружия
 
 
 
@@ -13,9 +13,7 @@
 * **ЛКМ** - Прицелиться
 * **Q** - Перезарядка
 
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-## <mark style="color:purple;">Виды оружия</mark>
+## <mark style="color:$primary;">Виды оружия</mark>
 
 ### Автомат ППШ
 
@@ -50,5 +48,3 @@
 ### Пистолет Mauser C96
 
 <figure><img src="../.gitbook/assets/mauzer (1).png" alt=""><figcaption><p>Пистолет Mauser C96</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
