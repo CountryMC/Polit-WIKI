@@ -32,8 +32,7 @@ hidden: true
    **Fabric\[1.16.4-1.16.5]** > [ссылка](https://modrinth.com/plugin/plasmo-voice/version/fabric-1.16-1.2.19)\
    **Forge\[1.16.4-1.16.5]** > [ссылка](https://modrinth.com/plugin/plasmo-voice/version/forge-1.16-1.2.19)\
    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-2.  После успешной установки, на сервер должна будет появится иконка микрофона:\
-
+2.  После успешной установки, на сервер должна будет появится иконка микрофона:<br>
 
     <figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
