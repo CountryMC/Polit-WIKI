@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # ⚙️ Настройка разрешений
 
 У каждого города есть определенные разрешения(флаги), которые можно регулировать.
@@ -5,27 +26,14 @@
 ## <mark style="color:$primary;">Команды</mark>
 
 * **`/t flags`** - меню настройки разрешений
-* **`/t flag`` ``<флаг>`** - установить флаг города в определенное значение
+* **`/t toggle <флаг> on/off` - включить/отключить разрешение города**
+* **`/t toggle <флаг>` - переключить разрешение на противоположное значение**
 
 ## <mark style="color:$primary;">Флаги</mark>
 
-| Флаг                           | Значение                                                                                                                                 | Команда                                |
-| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **allowPvp**                   | Включить/отключить пвп в городе                                                                                                          | **/t flag allowPvp**                   |
-| **allowPublicVillagers**       | Включить/отключить публичных НПС жителей. Если флаг отлючен, то с жителями в городе могут торговать только игроки живущие в этом городе. | **/t flag allowPublicVillagers**       |
-| **allowPublicNationVillagers** | Включить/отключить публичных НПС жителей для  жителей государства                                                                        | **/t flag allowPublicNationVillagers** |
-| **allowPublicReg**             | Сделать все регионы без владельцев публичными для своих жителей(они смогут открывать сундуки, ломать, строить)                           | **/t flag allowPublicReg**             |
-| **allowAlienExp**              | Включить/отключить возможность чужакам получать опыт в городе                                                                            | **/t flag allowAlienExp**              |
-| **allowFriendlyFire**          | Включить/отключить возможность наносить урон по своим же жителям                                                                         | **/t flag allowFriendlyFire**          |
-| **allowBuildInCamp**           | Включить/отключить возможность строить в лагере города                                                                                   | **/t flag allowBuildInCamp**           |
-| **allowBreakSpawners**         | Включить/отключить возможность жителям ломать спавнера на территории города                                                              | **/t flag allowBreakSpawners**         |
-| **allowPublicBeacon**          | Включить/отключить возможность чужакам получать эффекты от маяков в городе(не действует во время **рейдов** и **войн**)                  | **/t flag allowPublicBeacon**          |
-| **allowMobDamage**             | Включить/отключить возможность любым  игрокам наносить урон по мирным мобам в городе                                                     | **/t flag allowMobDamage**             |
-| **allowPublicVehicles**        | Включить/отключить возможность чужим игрокам пользоваться лодками и вагонетками(обычными без сунука, воронки и динамита) в городе        | **/t flag allowPublicVehicles**        |
-| **allowPublicTp**              | Включить/отключить возможность чужим игрокам телепортироваться в город(**/t spawn <город>**)                                             | **/t flag allowPublicTp**              |
-| **allowPublicJoin**            | Включить/отключить возможность чужим игрокам телепортироваться в город вступать в ваш город без разрешения /t join <город>               | **/t flag allowPublicJoin**            |
-| **allowArmyJoin**              | Включить/отключить возможность игрокам без разрешения вступать в армию /t war join                                                       | **/t flag allowArmyJoin**              |
-| **allowTools**                 | Включить/отключить возможность чужакам использовать верстаки, столы зачарования и наковальни                                             | **/t flag allowTools**                 |
+\*чужак - это любой игрок, который не является жителем твоего города
+
+<table><thead><tr><th width="172">Флаг</th><th width="177">Значение</th><th width="252">Команда</th><th>Значение по умолчанию</th></tr></thead><tbody><tr><td><strong>pvp</strong></td><td>Включить/отключить пвп в городе</td><td><strong>/t toggle pvp on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>villager_trading</strong></td><td>Включить/отключить торговлю с жителями(мобами) только для чужаков города</td><td><strong>/t toggle villager_trading on/off</strong></td><td><mark style="color:$success;"><strong>+</strong></mark></td></tr><tr><td><strong>explosions</strong></td><td>Включить/отключить урон и разрушения от взрывов</td><td><strong>/t toggle explosions on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>fire_spread</strong></td><td>Включить/отключить распространение огня в городе</td><td><strong>/t toggle explosions on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>friendly_fire</strong></td><td>Включить/отключить возможность наносить урон по своим</td><td><strong>/t toggle friendly_fire on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>experience</strong></td><td>Включить/отключить возможность чужакам получать опыт внутри города</td><td><strong>/t toggle experience on/off</strong></td><td><mark style="color:$success;"><strong>+</strong></mark></td></tr><tr><td><strong>spawner_breaking</strong></td><td>Включить/отключить возможность всем кроме мэра ломать спавнера внутри города</td><td><strong>/t toggle spawner_breaking on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>open_town</strong></td><td>Включить/отключить возможность любому игроку вступить в город без приглашения</td><td><strong>/t toggle open_town on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr><tr><td><strong>public_spawn</strong></td><td>Включить/отключить возможность любому игроку телепортироваться  в город(<strong>/t spawn &#x3C;город></strong>)</td><td><strong>/t toggle public_spawn on/off</strong></td><td><mark style="color:$danger;"><strong>-</strong></mark></td></tr></tbody></table>
 
 {% hint style="warning" %}
 Подоходный налог не может быть меньше **1%** и больше **60%**

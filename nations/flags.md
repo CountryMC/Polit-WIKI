@@ -1,11 +1,33 @@
-# ⚙️ Настройка разрешений
+---
+hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
+# ⚙️ Настройка разрешений p
 
 У каждого государства есть определенные разрешения(флаги), которые можно регулировать.
 
 ## <mark style="color:$primary;">Команды</mark>
 
 * **`/nation flags`** - меню настройки разрешений
-* **`/nation flag`` ``<флаг>`** - установить флаг государства в определенное значение
+* **`/nation flag <флаг>`** - установить флаг государства в определенное значение
 
 ## <mark style="color:$primary;">Флаги</mark>
 

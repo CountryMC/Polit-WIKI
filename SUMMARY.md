@@ -16,23 +16,23 @@
 * [🤓 Базовые понятия](towns/basics.md)
 * [🔱 Уровни города](towns/levels.md)
 * [⚙️ Настройка разрешений](towns/flags.md)
-* [🏕️ Участки](towns/plot.md)
-* [🏫 Здания](towns/buildings.md)
-* [⚖️ Ранги и права](towns/perms.md)
-* [🧙‍♂️ Религия](towns/religion.md)
-* [☠️ Войны](towns/wars.md)
-* [⚔️ Рейды](towns/raids.md)
-* [⛺ Лагерь](towns/camp.md)
-* [🚧 Санкции](towns/sanctions.md)
-* [🎗️ Пакты](towns/pacts.md)
-* [📬 Всемирный Конгресс](towns/kongress.md)
-* [🐎 Торговый обоз](towns/oboz.md)
-* [🚪 Квартиры](towns/flats.md)
+* [🏕️ Участки p](towns/plot.md)
+* [🏫 Здания p](towns/buildings.md)
+* [⚖️ Ранги и права p](towns/perms.md)
+* [🧙‍♂️ Религия p](towns/religion.md)
+* [☠️ Войны p](towns/wars.md)
+* [⚔️ Рейды p](towns/raids.md)
+* [⛺ Лагерь p](towns/camp.md)
+* [🚧 Санкции p](towns/sanctions.md)
+* [🎗️ Пакты p](towns/pacts.md)
+* [📬 Всемирный Конгресс p](towns/kongress.md)
+* [🐎 Торговый обоз p](towns/oboz.md)
+* [🚪 Квартиры p](towns/flats.md)
 
 ## Государства <a href="#nations" id="nations"></a>
 
-* [🤓 Базовые понятия](nations/options.md)
-* [⚙️ Настройка разрешений](nations/flags.md)
+* [🤓 Базовые понятия p](nations/options.md)
+* [⚙️ Настройка разрешений p](nations/flags.md)
 
 ## Разное <a href="#other" id="other"></a>
 
