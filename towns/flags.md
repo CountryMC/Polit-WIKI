@@ -57,7 +57,7 @@ layout:
 
 * **`/t flags`** - разрешения городских участков
 * **`/plot flags`** - флаги участка
-* **`/plot group flags`** - флаги группы участков
+* **`/plot group <группа> flags`** - флаги группы участков
 * **`/res flags`** - персональные флаги жителя
 
 ## <mark style="color:$primary;">Флаги</mark>
