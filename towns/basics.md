@@ -72,7 +72,7 @@ description: >-
 * **`/t info`** - узнать размер налога для города
 
 {% hint style="warning" %}
-В случае, если городу не будет хватать бюжета для оплаты налога, он получит статус **"Руины"** и удалится при следующем сборе налогов.&#x20;
+В случае, если городу не будет хватать бюжета для оплаты налога, он получит статус **"Руины"** и удалится при следующем сборе налогов.
 
 Мэр такого города будет лишен возможности им управлять.![](../.gitbook/assets/wgYxoTom21DamGZwSt2hho_rPLdNpOaIwU3JD0tsEg7zL6IZb-G6Kv_iI-kn-LilbPAz9Mlp_j2_9LzkxTy2Pk1u.jpg)
 {% endhint %}
@@ -111,7 +111,7 @@ description: >-
 * **`/t find`** - отправить запрос на поиск города
 
 {% hint style="success" %}
-Более подробно о рангах и правах жителей можно узнать в разделе [perms.md](perms.md "mention")
+Более подробно о рангах и правах жителей можно узнать в разделе [perms-1.md](perms-1.md "mention")
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
@@ -169,7 +169,7 @@ description: >-
 **`/t inventory`** - открыть городской инвентарь
 
 {% hint style="info" %}
-По умолчанию обычные жители [не могут](perms.md#prava-rangov-po-umolchaniyu) доставать ресурсы из инвентаря, только класть.
+По умолчанию обычные жители [не могут](perms-1.md#prava-rangov-po-umolchaniyu) доставать ресурсы из инвентаря, только класть.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
