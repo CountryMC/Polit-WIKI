@@ -32,7 +32,7 @@ hidden: true
 
 * **`/plot`** - меню участка на котором ты стоишь
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Меню участка</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Меню участка</p></figcaption></figure>
 
 ## <mark style="color:$primary;">Настройка участка</mark>
 

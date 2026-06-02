@@ -6,9 +6,6 @@
 
 * **`/shop`** - меню покупки оружия и патронов
 * **`/weapondurability`** - посмотреть прочность оружия
-
-
-
 * **ПКМ** - Выстрелить
 * **ЛКМ** - Прицелиться
 * **Q** - Перезарядка
@@ -43,8 +40,8 @@
 
 ### Пистолет ТТ
 
-<figure><img src="../.gitbook/assets/TT_1 (1).png" alt=""><figcaption><p>Пистолет ТТ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TT_1.png" alt=""><figcaption><p>Пистолет ТТ</p></figcaption></figure>
 
 ### Пистолет Mauser C96
 
-<figure><img src="../.gitbook/assets/mauzer (1).png" alt=""><figcaption><p>Пистолет Mauser C96</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/mauzer.png" alt=""><figcaption><p>Пистолет Mauser C96</p></figcaption></figure>

@@ -74,7 +74,7 @@
 
 ## <mark style="color:$primary;">Бустеры</mark>
 
-<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>Иконка бустеров в меню(/fish menu)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Иконка бустеров в меню(/fish menu)</p></figcaption></figure>
 
 Ты можешь улучшать свою удочку, добавляя к ней бустеры. У каждого бустера есть несколько уровней прокачки.
 

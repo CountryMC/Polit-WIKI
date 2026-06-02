@@ -23,7 +23,7 @@ hidden: true
 
 Нужно **0⛀** + ресурсы:<br>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-07-15 (2).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-07-15.png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
@@ -39,7 +39,7 @@ hidden: true
 
 Нужно **50⛀** + ресурсы:<br>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-09-12.png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#tamozhnya](buildings.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings.md#meriya "mention"), [#svyatynya-ada](buildings.md#svyatynya-ada "mention")
 * **Максимум жителей**: 20
@@ -62,7 +62,7 @@ hidden: true
 
 Нужно **130⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-10-12.png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#zhilichnoe-khozyaistvo](buildings.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings.md#torgovaya-palata "mention"), [#posolstvo](buildings.md#posolstvo "mention")
 * **Максимум жителей**: 40

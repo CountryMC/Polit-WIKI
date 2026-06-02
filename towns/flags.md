@@ -44,12 +44,14 @@ layout:
 
 ### <mark style="color:$primary;">Примеры</mark>
 
-* `/t toggle pvp on` - включает ПВП в городе
-* `/plot toggle pvp off` - выключает ПВП в участке, в котором стоит игрок
-* `/plot group malinovka toggle pvp` - переключает ПВП во всех участках, которые входят в группу `malinovka`
-* `/res toggle pvp on` - включает ПВП во всех участках, которыми владеет игрок
+* `/t toggle pvp on` - <mark style="color:$success;">включает</mark> ПВП в городе
+* `/plot toggle pvp off` - <mark style="color:$danger;">выключает</mark> ПВП в участке, в котором стоит игрок
+* `/plot group malinovka toggle pvp` - <mark style="color:$warning;">переключает</mark> ПВП во всех участках, которые входят в группу `malinovka`
+* `/res toggle pvp on` - <mark style="color:$success;">включает</mark> ПВП во всех участках, которыми владеет игрок
 
 ## <mark style="color:$primary;">Меню настройки</mark>
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Меню /t flags</p></figcaption></figure>
 
 Каждый тип разрешений также имеет графическое меню настройки:
 

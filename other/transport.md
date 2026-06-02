@@ -23,7 +23,7 @@ description: >-
 
 Буровая машина добывает блоки на своём пути по площади 3x3. Буровые машины делятся на три вида, каждая со своими характеристиками.
 
-<div><figure><img src="../.gitbook/assets/2023-12-13_01.37.40 (1).png" alt=""><figcaption><p>Буровая машина ЗИЛ</p></figcaption></figure> <figure><img src="../.gitbook/assets/2023-12-13_01.37.51 (1).png" alt=""><figcaption><p>Буровая машина Casagrande</p></figcaption></figure> <figure><img src="../.gitbook/assets/2023-12-13_01.37.58 (1).png" alt=""><figcaption><p>Буровая машина Caterpillar</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/2023-12-13_01.37.40.png" alt=""><figcaption><p>Буровая машина ЗИЛ</p></figcaption></figure> <figure><img src="../.gitbook/assets/2023-12-13_01.37.51.png" alt=""><figcaption><p>Буровая машина Casagrande</p></figcaption></figure> <figure><img src="../.gitbook/assets/2023-12-13_01.37.58.png" alt=""><figcaption><p>Буровая машина Caterpillar</p></figcaption></figure></div>
 
 ### <mark style="color:$info;">Тракторы</mark>
 
@@ -34,8 +34,6 @@ description: >-
 ## <mark style="color:$primary;">Топливо</mark>
 
 У каждого транспорта есть показатель уровня топлива и по мере эксплуатации оно будет тратиться. Для пополнения уровня топливо успользуются следующие ресурсы:
-
-&#x20;
 
 |               Ресурс              | Кол-во топлива за еденицу ресурса |
 | :-------------------------------: | :-------------------------------: |
