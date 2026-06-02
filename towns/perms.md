@@ -60,7 +60,7 @@ description: >-
 
 ## <mark style="color:$primary;">Меню настройки</mark>
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Меню городских праф /t perms</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Меню городских прав /t perms</p></figcaption></figure>
 
 Каждый тип разрешений имеет собственное меню настройки:
 
