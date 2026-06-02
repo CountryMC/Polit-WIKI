@@ -44,7 +44,7 @@ layout:
 
 ### <mark style="color:$primary;">Примеры</mark>
 
-* `/t toggle pvp on`в городе
+* `/t toggle pvp on` - включает ПВП в городе
 * `/plot toggle pvp off` - выключает ПВП в участке, в котором стоит игрок
 * `/plot group malinovka toggle pvp` - переключает ПВП во всех участках, которые входят в группу `malinovka`
 * `/res toggle pvp on` - включает ПВП во всех участках, которыми владеет игрок
