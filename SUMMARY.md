@@ -15,7 +15,7 @@
 
 * [🤓 Базовые понятия](towns/basics.md)
 * [🔱 Уровни города](towns/levels.md)
-* [⚙️ Настройка разрешений](towns/flags.md)
+* [⚙️ Настройка флагов](towns/flags.md)
 * [🕵️‍♂️ Права и группы](towns/prava-i-gruppy.md)
 * [🏕️ Участки](towns/uchastki.md)
 * [🏕️ Участки p](towns/plot.md)
