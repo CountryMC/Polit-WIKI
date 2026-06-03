@@ -17,7 +17,7 @@
 * [🔱 Уровни города](towns/levels.md)
 * [⚙️ Настройка флагов](towns/flags.md)
 * [🕵️‍♂️ Права и группы](towns/perms.md)
-* [🏕️ Участки](towns/uchastki.md)
+* [🏕️ Участки](towns/plots.md)
 * [🏕️ Участки p](towns/plot.md)
 * [🏫 Здания p](towns/buildings.md)
 * [⚖️ Ранги и права p](towns/perms-1.md)
