@@ -137,7 +137,7 @@ description: >-
 * **`/plot unclaim`** - удалить участок
 
 {% hint style="success" %}
-Более подробно об участах можно узнать в разделе [plot.md](plot.md "mention")
+Более подробно об участах можно узнать в разделе [Broken link](/broken/pages/aADozffrpNClKo7RGax8 "mention")
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
