@@ -18,6 +18,7 @@
 * [⚙️ Настройка флагов](towns/flags.md)
 * [🕵️‍♂️ Права и группы](towns/perms.md)
 * [🏕️ Участки](towns/plots.md)
+* [🏛️ Здания](towns/zdaniya.md)
 * [🏫 Здания](towns/buildings.md)
 * [⚖️ Ранги и права p](towns/perms-1.md)
 * [🧙‍♂️ Религия p](towns/religion.md)
