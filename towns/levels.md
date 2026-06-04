@@ -9,9 +9,10 @@ hidden: true
 
 ## <mark style="color:$primary;">Команды</mark>
 
-* **`/t lvlup`** - прокачать уровень города
+* **`/t upgrade`** - прокачать уровень города
 * **`/t levels`** - окрыть меню уровней города
-* **`/t lvlup info <уровень>`** - посмотреть недостающие ресурсы для повышения на указанный уровень
+* **`/t upgrade info`**  - посмотреть необходимые ресурсы для следующего уровня
+* **`/t upgrade info <уровень>`** - посмотреть необходимые ресурсы для повышения на указанный уровень
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Меню уровней /t levels</p></figcaption></figure>
 
@@ -23,27 +24,27 @@ hidden: true
 
 Нужно **0⛀** + ресурсы:<br>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-07-15.png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
 {% hint style="info" %}
 Виды дерева и уголь могут быть любые
 {% endhint %}
 
 * **Новые здания**: [#pochtamt](buildings.md#pochtamt "mention"),[#gorodskoi-sklad](buildings.md#gorodskoi-sklad "mention")
-* **Максимум жителей**: _7_
-* **Максимум регионов**: _20_
+* **Максимум жителей**: 6
+* **Бонусные участки**: 15
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:$info;">2 Уровень</mark>
 
-Нужно **50⛀** + ресурсы:<br>
+Нужно 8**0⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#tamozhnya](buildings.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings.md#meriya "mention"), [#svyatynya-ada](buildings.md#svyatynya-ada "mention")
-* **Максимум жителей**: 20
-* **Максимум регионов**: 90
+* **Максимум жителей**: 16
+* **Бонусные участки**: 40
 
 {% hint style="info" %}
 Возможности:
@@ -60,13 +61,13 @@ hidden: true
 
 ### <mark style="color:$info;">3 Уровень</mark>
 
-Нужно **130⛀** + ресурсы:
+Нужно 20**0⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#zhilichnoe-khozyaistvo](buildings.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings.md#torgovaya-palata "mention"), [#posolstvo](buildings.md#posolstvo "mention")
-* **Максимум жителей**: 40
-* **Максимум регионов**: 240
+* **Максимум жителей**: 35
+* **Бонусные участки**: 100
 
 {% hint style="info" %}
 - возможнсть начать [raids.md](raids.md "mention")
@@ -81,13 +82,13 @@ hidden: true
 
 ### <mark style="color:$info;">4 Уровень</mark>
 
-Нужно **350⛀** + ресурсы:<br>
+Нужно **500⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-10-57.png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#svyatynya-kraya](buildings.md#svyatynya-kraya "mention"), [#bank](buildings.md#bank "mention"), [#citadel](buildings.md#citadel "mention"), [#rezidenciya](buildings.md#rezidenciya "mention")
-* **Максимум жителей**: 70
-* **Максимум регионов**: 690
+* **Максимум жителей**: 60
+* **Бонусные участки**: 400
 
 {% hint style="info" %}
 Возможности:
@@ -101,46 +102,22 @@ hidden: true
 
 ### <mark style="color:$info;">5 Уровень</mark>
 
-Нужно **1000⛀** + ресурсы:<br>
+Нужно **2500⛀** + ресурсы:<br>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-06 02-11-37.png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#kongress](buildings.md#kongress "mention"), [#gildiya-stroitelei](buildings.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings.md#oruzheinyi-zavod "mention")
-* **Максимум жителей**: 100
-* **Максимум регионов**: 1090
+* **Максимум жителей**: 75
+* **Бонусные участки**: 700
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:$info;">6 Уровень</mark>
 
-Нужно **3000⛀** + ресурсы:<br>
+Нужно **6000⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#dom-pravitelstva](buildings.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings.md#voennaya-akademiya "mention"), [#zemelnaya-sluzhba](buildings.md#zemelnaya-sluzhba "mention")
-* **Максимум жителей**: 150
-* **Максимум регионов**: 1540
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-### <mark style="color:$info;">7 Уровень</mark>
-
-Нужно **6000⛀** + ресурсы:<br>
-
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Ресурсы для 7 уровня города</p></figcaption></figure>
-
-* **Новые здания**: [#biblioteka](buildings.md#biblioteka "mention")
-* **Максимум жителей**: 170
-* **Максимум регионов**: 2340
-
-<figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
-
-### <mark style="color:$info;">8 Уровень</mark>
-
-Нужно **10000⛀** + ресурсы:<br>
-
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Ресурсы для 8 уровня города</p></figcaption></figure>
-
-* **Новые здания**: [#remontnaya-masterskaya](buildings.md#remontnaya-masterskaya "mention")
-* **Максимум жителей**: 200
-* **Максимум регионов**: 3840
+* **Максимум жителей**: 100
+* **Бонусные участки**: 1100
