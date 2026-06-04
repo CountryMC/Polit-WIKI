@@ -13,7 +13,7 @@ description: Прокачка города
 * **`/t upgrade info`**  - посмотреть необходимые ресурсы для следующего уровня
 * **`/t upgrade info <уровень>`** - посмотреть необходимые ресурсы для повышения на указанный уровень
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Меню уровней /t levels</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Меню прокачки уровней</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
