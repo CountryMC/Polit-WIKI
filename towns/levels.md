@@ -29,7 +29,7 @@ description: Прокачка города
 Виды дерева и уголь могут быть любые
 {% endhint %}
 
-* **Новые здания**: [#pochtamt](buildings.md#pochtamt "mention"),[#gorodskoi-sklad](buildings.md#gorodskoi-sklad "mention")
+* **Новые здания**: [#pochtamt](buildings-1.md#pochtamt "mention"),[#gorodskoi-sklad](buildings-1.md#gorodskoi-sklad "mention")
 * **Максимум жителей**: 6
 * **Бонусные участки**: 15
 
@@ -41,7 +41,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Ресурсы для 2 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#tamozhnya](buildings.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings.md#meriya "mention"), [#svyatynya-ada](buildings.md#svyatynya-ada "mention")
+* **Новые здания**: [#tamozhnya](buildings-1.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings-1.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings-1.md#meriya "mention"), [#svyatynya-ada](buildings-1.md#svyatynya-ada "mention")
 * **Максимум жителей**: 16
 * **Бонусные участки**: 40
 
@@ -64,7 +64,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Ресурсы для 3 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#zhilichnoe-khozyaistvo](buildings.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings.md#torgovaya-palata "mention"), [#posolstvo](buildings.md#posolstvo "mention")
+* **Новые здания**: [#zhilichnoe-khozyaistvo](buildings-1.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings-1.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings-1.md#torgovaya-palata "mention"), [#posolstvo](buildings-1.md#posolstvo "mention")
 * **Максимум жителей**: 35
 * **Бонусные участки**: 100
 
@@ -85,7 +85,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Ресурсы для 4 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#svyatynya-kraya](buildings.md#svyatynya-kraya "mention"), [#bank](buildings.md#bank "mention"), [#citadel](buildings.md#citadel "mention"), [#rezidenciya](buildings.md#rezidenciya "mention")
+* **Новые здания**: [#svyatynya-kraya](buildings-1.md#svyatynya-kraya "mention"), [#bank](buildings-1.md#bank "mention"), [#citadel](buildings-1.md#citadel "mention"), [#rezidenciya](buildings-1.md#rezidenciya "mention")
 * **Максимум жителей**: 60
 * **Бонусные участки**: 400
 
@@ -105,7 +105,7 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#kongress](buildings.md#kongress "mention"), [#gildiya-stroitelei](buildings.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings.md#oruzheinyi-zavod "mention")
+* **Новые здания**: [#kongress](buildings-1.md#kongress "mention"), [#gildiya-stroitelei](buildings-1.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings-1.md#oruzheinyi-zavod "mention")
 * **Максимум жителей**: 75
 * **Бонусные участки**: 700
 
@@ -117,6 +117,6 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Ресурсы для 6 уровня города</p></figcaption></figure>
 
-* **Новые здания**: [#dom-pravitelstva](buildings.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings.md#voennaya-akademiya "mention"), [#zemelnaya-sluzhba](buildings.md#zemelnaya-sluzhba "mention")
+* **Новые здания**: [#dom-pravitelstva](buildings-1.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings-1.md#voennaya-akademiya "mention"), [#zemelnaya-sluzhba](buildings-1.md#zemelnaya-sluzhba "mention")
 * **Максимум жителей**: 100
 * **Бонусные участки**: 1100

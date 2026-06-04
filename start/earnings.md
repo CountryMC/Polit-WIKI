@@ -42,7 +42,7 @@
 
 ## <mark style="color:$primary;">Аукцион</mark>
 
-Аукцион доступен всем жителям города после покупки здания [#tamozhnya](../towns/buildings.md#tamozhnya "mention").
+Аукцион доступен всем жителям города после покупки здания [#tamozhnya](../towns/buildings-1.md#tamozhnya "mention").
 
 * **`/ah`** - открыть меню аукциона
 

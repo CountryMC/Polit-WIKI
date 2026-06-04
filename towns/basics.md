@@ -157,7 +157,7 @@ description: >-
 {% endhint %}
 
 {% hint style="success" %}
-Более подробно о здания можно узнать в статье [buildings.md](buildings.md "mention")
+Более подробно о здания можно узнать в статье [buildings-1.md](buildings-1.md "mention")
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>

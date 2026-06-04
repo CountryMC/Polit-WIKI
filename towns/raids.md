@@ -7,7 +7,7 @@ hidden: true
 
 ## <mark style="color:$primary;">Команды</mark>
 
-* **`/t raid  start <город>`** - начать рейд на город
+* **`/t raid start <город>`** - начать рейд на город
 * **`/t raid join <сторона>`** - присоединить свой город к рейду
 * **`/t raid time`** - информация о кулдаунах на рейды
 * **`/t raid end`** - оставшееся время до конца рейда
@@ -16,7 +16,7 @@ hidden: true
 
 ## <mark style="color:$primary;">Обьявление рейда</mark>
 
-Для объявления рейда необходимо иметь определенное кол-во монет в бюджете города и купленное здание [#trenirovochnyi-lager](buildings.md#trenirovochnyi-lager "mention"):
+Для объявления рейда необходимо иметь определенное кол-во монет в бюджете города и купленное здание [#trenirovochnyi-lager](buildings-1.md#trenirovochnyi-lager "mention"):
 
 * **`/t raid <город>`** - начать рейд на город
 

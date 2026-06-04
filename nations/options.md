@@ -40,7 +40,7 @@ hidden: true
 
 ## <mark style="color:$primary;">Основание государства</mark>
 
-Создать государство можно после покупки здания "[Дом правительства](../towns/buildings.md#dom-pravitelstva)"
+Создать государство можно после покупки здания "[Дом правительства](../towns/buildings-1.md#dom-pravitelstva)"
 
 * **`/nation create <название>`** - создание государства
 
