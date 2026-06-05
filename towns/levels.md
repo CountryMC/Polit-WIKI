@@ -44,6 +44,7 @@ description: Прокачка города
 * **Новые здания**: [#tamozhnya](buildings-1.md#tamozhnya "mention"), [#zheleznodorozhnaya-stanciya](buildings-1.md#zheleznodorozhnaya-stanciya "mention"), [#meriya](buildings-1.md#meriya "mention"), [#svyatynya-ada](buildings-1.md#svyatynya-ada "mention")
 * **Максимум жителей**: 16
 * **Бонусные участки**: 40
+* Городской бустер скупщика: +5%
 
 {% hint style="info" %}
 Возможности:
@@ -67,6 +68,7 @@ description: Прокачка города
 * **Новые здания**: [#zhilichnoe-khozyaistvo](buildings-1.md#zhilichnoe-khozyaistvo "mention"), [#trenirovochnyi-lager](buildings-1.md#trenirovochnyi-lager "mention"), [#torgovaya-palata](buildings-1.md#torgovaya-palata "mention"), [#posolstvo](buildings-1.md#posolstvo "mention")
 * **Максимум жителей**: 35
 * **Бонусные участки**: 100
+* Городской бустер скупщика: +10%
 
 {% hint style="info" %}
 - возможнсть начать [raids.md](raids.md "mention")
@@ -88,6 +90,7 @@ description: Прокачка города
 * **Новые здания**: [#svyatynya-kraya](buildings-1.md#svyatynya-kraya "mention"), [#bank](buildings-1.md#bank "mention"), [#citadel](buildings-1.md#citadel "mention"), [#rezidenciya](buildings-1.md#rezidenciya "mention")
 * **Максимум жителей**: 60
 * **Бонусные участки**: 400
+* Городской бустер скупщика: +15%
 
 {% hint style="info" %}
 Возможности:
@@ -108,6 +111,7 @@ description: Прокачка города
 * **Новые здания**: [#kongress](buildings-1.md#kongress "mention"), [#gildiya-stroitelei](buildings-1.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings-1.md#oruzheinyi-zavod "mention")
 * **Максимум жителей**: 75
 * **Бонусные участки**: 700
+* Городской бустер скупщика: +20%
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
 
@@ -120,3 +124,4 @@ description: Прокачка города
 * **Новые здания**: [#dom-pravitelstva](buildings-1.md#dom-pravitelstva "mention"), [#voennaya-akademiya](buildings-1.md#voennaya-akademiya "mention"), [#zemelnaya-sluzhba](buildings-1.md#zemelnaya-sluzhba "mention")
 * **Максимум жителей**: 100
 * **Бонусные участки**: 1100
+* Городской бустер скупщика: +30%
