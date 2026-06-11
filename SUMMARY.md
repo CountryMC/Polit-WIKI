@@ -19,6 +19,7 @@
 * [🕵️‍♂️ Права и группы](towns/perms.md)
 * [🏕️ Участки](towns/plots.md)
 * [🏛️ Здания](towns/buildings.md)
+* [♟️ Политика](towns/politika.md)
 * [🏫 Здания](towns/buildings-1.md)
 * [⚖️ Ранги и права p](towns/perms-1.md)
 * [🧙‍♂️ Религия p](towns/religion.md)
