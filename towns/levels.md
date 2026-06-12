@@ -104,9 +104,9 @@ description: Прокачка города
 
 ### <mark style="color:$info;">5 Уровень</mark>
 
-Нужно **2500⛀** + ресурсы:<br>
+Нужно **2500⛀** + ресурсы:
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Ресурсы для 5 уровня города</p></figcaption></figure>
 
 * **Новые здания**: [#kongress](buildings-1.md#kongress "mention"), [#gildiya-stroitelei](buildings-1.md#gildiya-stroitelei "mention"), [#oruzheinyi-zavod](buildings-1.md#oruzheinyi-zavod "mention")
 * **Максимум жителей**: 75
