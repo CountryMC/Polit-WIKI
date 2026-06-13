@@ -213,7 +213,7 @@ description: Правила проекта и Администрации
 
 <details>
 
-<summary>Глава [7] : Голосовой чат</summary>
+<summary>Глава [7] : Голосовой чат<br><br><strong>⚠️ </strong><mark style="color:$warning;"><strong>ВНИМАНИЕ</strong></mark><strong> ⚠️ </strong><mark style="color:$warning;"><strong>Наказания голосового чата, также применяются и на текстовый чат. Не нарушайте!</strong></mark></summary>
 
 1. Оскорбление или упоминание в плохом контексте игроков или их родных в голосовом чате\
    <mark style="color:$danger;">◦ Наказание: Мут голосового чата от 12 часов до 3 дней</mark>
