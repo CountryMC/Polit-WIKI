@@ -29,17 +29,16 @@ layout:
 
 **CountryMC** - политический проект в игре майнкрафт с упором на тесное взаимодействие с другими игроками, прокачку своего города и государства. Ведение дипломатии, войны между государствами и религиями, а также куча всего остального ждет тебя на нашем проекте.
 
-🎮 Айпи » **play.countrymc.net**\
+🎮 Айпи(ПК и Телефон) » **play.countrymc.net**\
 🎮 Айпи(Украина) » **ua.countrymc.net**\
-🎮 Айпи(Телефон) » **be.countrymc.net**\
 \
 💰 Сайт » [<mark style="color:blue;">countrymc.net</mark>](https://vk.com/away.php?to=http%3A%2F%2Fcountrymc.net\&cc_key=)\
 🔥 Дискорд » [<mark style="color:blue;">discord.gg/s64dtn5jCR</mark>](https://discord.gg/s64dtn5jCR)\
 🔥 ВК » [<mark style="color:blue;">vk.com/countrymc</mark>](https://vk.com/countrymc)\
 ![🔥](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)🔥 Телеграм » [<mark style="color:blue;">t.me/country\_mc</mark>](https://t.me/country_mc)\
 \
-🌍 Карта Сириус » [<mark style="color:blue;">sirius.countrymc.net</mark>](https://sirius.countrymc.net)\
-🌍 Карта Вега » [<mark style="color:blue;">vega.countrymc.net</mark>](https://vega.countrymc.net)
+🌍 Карта Сириус » [<mark style="color:blue;">sirius.countrymc.</mark>](https://sirius.countrymc.net)<mark style="color:blue;">space</mark>\
+🌍 Карта Вега » [<mark style="color:blue;">vega.countrymc.s</mark>](https://vega.countrymc.net)<mark style="color:blue;">pace</mark>
 
 ### <mark style="color:$primary;">Наши преимущества:</mark>
 
