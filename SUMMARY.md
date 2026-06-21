@@ -25,7 +25,7 @@
 * [⚖️ Ранги и права p](towns/perms-1.md)
 * [🧙‍♂️ Религия p](towns/religion.md)
 * [☠️ Войны p](towns/wars.md)
-* [⚔️ Рейды p](towns/raids.md)
+* [⚔️ Рейды](towns/raids.md)
 * [⛺ Лагерь p](towns/camp.md)
 * [🚧 Санкции p](towns/sanctions.md)
 * [📬 Всемирный Конгресс p](towns/kongress.md)
