@@ -65,7 +65,7 @@ description: >-
 
 После успешного выполнения команды квартира будет создана и ты сможешь увидеть её границы:
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Выделение границ квартиры</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Если ты забыл размер квартиры, то отобразить границы всегда возможно командой:
 
