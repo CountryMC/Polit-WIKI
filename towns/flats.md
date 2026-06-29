@@ -63,6 +63,10 @@ description: >-
 {% endstep %}
 {% endstepper %}
 
+{% hint style="info" %}
+Жильцы квартиры могут только пользоваться блоками внутри квартиры; ломать и ставить блоки они не смогут.
+{% endhint %}
+
 После успешного выполнения команды квартира будет создана и ты сможешь увидеть её границы:
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
