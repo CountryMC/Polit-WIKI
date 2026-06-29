@@ -22,6 +22,7 @@
 * [♟️ Политика](towns/politika.md)
 * [🎗️ Пакты](towns/pacts.md)
 * [⚔️ Рейды](towns/raids.md)
+* [🚪 Квартиры](towns/flats.md)
 * [🏫 Здания](towns/buildings-1.md)
 * [⚖️ Ранги и права p](towns/perms-1.md)
 * [🧙‍♂️ Религия p](towns/religion.md)
@@ -30,7 +31,6 @@
 * [🚧 Санкции p](towns/sanctions.md)
 * [📬 Всемирный Конгресс p](towns/kongress.md)
 * [🐎 Торговый обоз p](towns/oboz.md)
-* [🚪 Квартиры p](towns/flats.md)
 
 ## Государства <a href="#nations" id="nations"></a>
 
