@@ -20,6 +20,7 @@
 * [🏕️ Участки](towns/plots.md)
 * [🏛️ Здания](towns/buildings.md)
 * [♟️ Политика](towns/politika.md)
+* [🚩 Политический строй](towns/politic-system.md)
 * [🎗️ Пакты](towns/pacts.md)
 * [⚔️ Рейды](towns/raids.md)
 * [🚪 Квартиры](towns/flats.md)
