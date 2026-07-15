@@ -10,7 +10,7 @@ description: >-
 
 * **`/t politic system`** - меню выбора политического строя
 * **`/t politic form`** - меню выбора формы правления
-* **`/t politic form bonus`  - активировать бонус формы правления**
+* **`/t politic form bonus`**  - активировать бонус формы правления
 
 ## <mark style="color:$primary;">Типы</mark>
 
