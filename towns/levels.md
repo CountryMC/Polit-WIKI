@@ -25,10 +25,6 @@ description: Прокачка города
 
 <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Ресурсы для создания города</p></figcaption></figure>
 
-{% hint style="info" %}
-Виды дерева и уголь могут быть любые
-{% endhint %}
-
 * **Новые здания**: [#pochtamt](buildings-1.md#pochtamt "mention"),[#gorodskoi-sklad](buildings-1.md#gorodskoi-sklad "mention")
 * **Максимум жителей**: 6
 * **Бонусные участки**: 15
@@ -55,6 +51,7 @@ description: Прокачка города
 * город может воодить санкции против других городов
 * жители города могут принимать религию
 * возможность голосовать на Всемирном Конгрессе
+* возможность выбрать форму правления города
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/gitlab_hr7.svg" alt=""><figcaption></figcaption></figure>
