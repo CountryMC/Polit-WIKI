@@ -54,7 +54,7 @@ description: >-
 ## <mark style="color:$primary;">Основы войны</mark>
 
 Война состоит из четырёх фаз:\
-<mark style="color:orange;">Фаза</mark> <mark style="color:orange;">п</mark><mark style="color:orange;">**одготовки**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Активная фаза**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Перемирие**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Итог**</mark>
+<mark style="color:orange;">П</mark><mark style="color:orange;">**одготовка**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Активное сражение**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Перемирие**</mark>**&#x20;->&#x20;**<mark style="color:orange;">**Исход**</mark>
 
 Для победы в войне надо набрать **200 очков**, либо набрать очков больше чем у противника в момент окончания этапа <mark style="color:orange;">Сражение</mark>. Если очков поровну - побеждает сторона защиты.
 
