@@ -99,13 +99,19 @@ description: >-
 
 Всего есть два типа взрывчатки:
 
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-39.png" alt=""><figcaption><p>Полевая взрывчатка</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-46.png" alt=""><figcaption><p>Разрушительная взрывчатка</p></figcaption></figure>
+
 #### <mark style="color:orange;">**Захват регионов**</mark>
 
 Для захвата регионов понадобиться скрафтить военные флаги:
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-18 21-33-39.png" alt=""><figcaption><p>Крафт флага Атаки</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-20.png" alt=""><figcaption><p>Флаг победы</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-01-18 21-33-54.png" alt=""><figcaption><p>Крафт флага защиты</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-25.png" alt=""><figcaption><p>Флаг плацдарма</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-33.png" alt=""><figcaption><p>Флаг захвата</p></figcaption></figure>
 
 Есть три типа военных флагов: <mark style="color:$primary;">флаг Захвата</mark>, <mark style="color:$primary;">флаг Плацдарма</mark>, <mark style="color:$primary;">флаг Победы</mark>.&#x20;
 
