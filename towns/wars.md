@@ -107,11 +107,11 @@ description: >-
 
 Для захвата регионов понадобиться скрафтить военные флаги:
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-20.png" alt=""><figcaption><p>Флаг победы</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-30 23-17-51.png" alt=""><figcaption><p>Флаг победы</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-25.png" alt=""><figcaption><p>Флаг плацдарма</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-30 23-17-56.png" alt=""><figcaption><p>Флаг плацдарма</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot from 2026-07-29 03-36-33.png" alt=""><figcaption><p>Флаг захвата</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2026-07-30 23-18-01.png" alt=""><figcaption><p>Флаг захвата</p></figcaption></figure>
 
 Есть три типа военных флагов: <mark style="color:$primary;">флаг Захвата</mark>, <mark style="color:$primary;">флаг Плацдарма</mark>, <mark style="color:$primary;">флаг Победы</mark>.&#x20;
 
