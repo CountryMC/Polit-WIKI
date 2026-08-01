@@ -26,10 +26,10 @@
 * [☠️ Войны](towns/wars.md)
 * [🚪 Квартиры](towns/flats.md)
 * [🚧 Санкции](towns/sanctions.md)
+* [⛺ Лагерь](towns/camp.md)
 * [🏫 Здания](towns/buildings-1.md)
 * [⚖️ Ранги и права p](towns/perms-1.md)
 * [🧙‍♂️ Религия p](towns/religion.md)
-* [⛺ Лагерь p](towns/camp.md)
 * [📬 Всемирный Конгресс p](towns/kongress.md)
 * [🐎 Торговый обоз p](towns/oboz.md)
 
