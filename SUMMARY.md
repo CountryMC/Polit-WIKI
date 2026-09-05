@@ -44,7 +44,6 @@
 * [🚜 Транспорт](other/transport.md)
 * [🔫 Огнестрельное оружие](other/guns.md)
 * [🛒 Магазины на сундуках](other/magaziny-na-sundukakh.md)
-* [💬 Чаты](other/chats.md)
 * [🎙️ Голосовой чат](other/voice-chat.md)
 * [🔧 Кастомные крафты](other/crafts.md)
 * [🦈 Рыбалка](other/fishing.md)

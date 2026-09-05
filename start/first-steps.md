@@ -60,4 +60,4 @@ description: Что делать после появления на спавне
 * **Личный - `/m <ник> <сообщение>`**
 * **Чат-комнаты - `/ch room create`**
 
-Подробнее о чатах [chats.md](../other/chats.md "mention")
+Подробнее о чатах [Broken link](/broken/pages/XedQmcWtKmS5NZoyl2pm "mention")
