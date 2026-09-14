@@ -182,18 +182,22 @@ description: Правила проекта и Администрации
 1.  **Использование/Хранение постороннего программного обеспечения помогающего облегчить геймплей:**\
     **Список запрещённых МОДОВ:**
 
-    > Разрешённые моды: ItemScroller, TapeMouse, nohurtcam. Litematica, Litematica Printer, FreeCam, ReplayMod, ChunkAnimator, AppleSkins, Бинды<br>
-    >
-    > Моды разрешенные для PVE: AutoClicker, Inventory Profiles, AutoDrop.<br>
-    >
-    > Запрещённые моды: Все возможные чит клиенты(Impact, Celestial Meteor, Nursultan, Expensive, Delta, Aristois, Wurst, Wexside и т.п), Baritone(И подобные), AutoMining, AutoAtack/AutoAim, AutoFish, AutoPot, AutoArmor, InventoryCleaner, AutoDrop, AutoTotem, AutoSwitch(и подобные) xray/diamondsim(и подобные), ClientCommands, LavaClearView, Tweakeroo, elytraswap(и т.п), crystaloptimizer, inventory\_walk, Wall-Jump/Spider(и подобные), crystaloptimizer, Trajectory Preview, PulseVisuals, CleanCut, MobHealthBar<br>
-    >
-    > Запрещённые функции: \
+
+
+    > Разрешённые моды: ItemScroller, TapeMouse, nohurtcam. Litematica, Litematica Printer, FreeCam, ReplayMod, ChunkAnimator, AppleSkins, Бинды\
+    > \
+    > Моды разрешенные для PVE: AutoClicker, Inventory Profiles, AutoDrop.\
+    > \
+    > Запрещённые моды: Все возможные чит клиенты(Impact, Celestial Meteor, Nursultan, Expensive, Delta, Aristois, Wurst, Wexside и т.п), Baritone(И подобные), AutoMining, AutoAtack/AutoAim, AutoFish, AutoPot, AutoArmor, InventoryCleaner, AutoDrop, AutoTotem, AutoSwitch(и подобные) xray/diamondsim(и подобные), ClientCommands, LavaClearView, Tweakeroo, elytraswap(и т.п), crystaloptimizer, inventory\_walk, Wall-Jump/Spider(и подобные), crystaloptimizer, Trajectory Preview, CleanCut, MobHealthBar, autoeat, Attack Through Grass, ReplantingCrops, Player Spotlight, BaseFinder, TrueSight, Remove Blindess, Entity Outline, AntiInvis, CheatUtils, AutoPilot, Dont Hit Teammates.\
+    > \
+    > Запрещённые функции:\
     > 1\) Упрощение, автоматизация действий или меняющие условия во время боя, дающая нечестное преимущество.\
     > 2\) Моды, показывающие информацию о том, что скрыто от игрока.\
     > 3\) Моды с подсветкой игроков/мобов/блоков сквозь стены.\
     > 4\) Моды обходящие ограничения Анти-AFK системы.\
-    > 5\) Моды, позволяющие проходить сквозь стены, перемещаться на большие расстояния за короткое время, попадать в места, в которые попасть ванильным способом невозможно.
+    > 5\) Моды, позволяющие проходить сквозь стены, перемещаться на большие расстояния за короткое время, попадать в места, в которые попасть ванильным способом невозможно.\
+    > \
+    > Примечание к списку: Данный свод не публикует полный список модификаций. Тут отображен софт, а также функционал о котором было много вопросов от игроков проекта. Администрация может выдал блокировку и за иные модификации которые могут нанести вред честной игре на сервере.
 
     <mark style="color:red;">◦ Наказание: Бан от 7 до 45 дней Признание до проверки снижает срок на 30% с округлением в большую сторону</mark>
 2. Запрещены все виды автоматизации добычи ресурсов кроме перечисленных ниже. Рыбалка разрешена только, если в момент рыбалки у игрока на сервере находится только один аккаунт, с которого он рыбачит.\
